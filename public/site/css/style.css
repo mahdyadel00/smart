@@ -215,6 +215,7 @@ section {
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #4154f1;
+  text-decoration: underline;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #4154f1;

@@ -3,15 +3,14 @@ $modules = App\Modules\Admin\Models\Modules\Modules::with('Data')->get();
 @endphp
 <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between" style="max-width: fit-content;">
-
-        <a href="{{ route('home') }}" class="logo d-flex align-items-center">
-            <img src="{{ asset('site') }}/img/logo.png" alt="">
-            <span>{{ _i('Smart Agent') }}</span>
-        </a>
         <nav id="navbar" class="navbar text-center">
+            <a href="{{ route('home') }}" class="logo d-flex align-items-center mx-auto">
+                <img src="{{ asset('site') }}/img/logo.png" alt="">
+                <span>{{ _i('Smart Agent') }}</span>
+            </a>
             <ul>
-                <li><a class="nav-link scrollto {{ request()->is('/*') ? 'active' : '' }}"
-                        href="{{ route('home') }}">{{ _i('Home') }}</a></li>
+                {{-- <li><a class="nav-link scrollto {{ request()->is('/*') ? 'active' : '' }}"
+                        href="{{ route('home') }}">{{ _i('Home') }}</a></li> --}}
                 <li><a class="nav-link scrollto {{ request()->is('/*') ? 'active' : '' }}"
                         href="#about">{{ _i('Main Goals') }}</a></li>
                 <li><a class="nav-link scrollto {{ request()->is('/*') ? 'active' : '' }}"
@@ -35,10 +34,12 @@ $modules = App\Modules\Admin\Models\Modules\Modules::with('Data')->get();
                 @endauth
                 @guest
                     <li><a class="nav-link scrollto " href="{{ route('login') }}">{{ _i('Befor Quiz') }}</a></li>
-                    <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
-
+                    <li class="dropdown"><a href="#"><span>{{ _i('All Modules') }}</span> <i class="bi bi-chevron-down"></i></a>
+                        <ul>
+                            <li><a href="{{ route('login') }}">{{ _i('Please login to view modules') }}</a></li>
+                        </ul>
                     </li>
-                    <li><a class="nav-link scrollto" href="{{ route('login') }}">{{ _i('') }}</a></li>
+                    <li><a class="nav-link scrollto" href="{{ route('login') }}">{{ _i('After Quiz') }}</a></li>
                 @endguest
                 <li><a class="nav-link scrollto {{ request()->is('/*') ? 'active' : '' }}"
                         href="#portfolio">{{ _i('Help') }}</a></li>
