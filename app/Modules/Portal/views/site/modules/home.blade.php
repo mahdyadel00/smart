@@ -6,6 +6,4 @@
     @include('site.modules.tabs')
 
 
-
-
 @endsection

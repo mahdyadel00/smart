@@ -215,6 +215,7 @@ section {
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #4154f1;
+  text-decoration: underline;
 }
 .navbar .getstarted, .navbar .getstarted:focus {
   background: #4154f1;
@@ -2134,7 +2135,7 @@ section {
     padding-bottom: 50px;
 }
 .pt-50{
-    padding-top:50px
+    padding-top:100px
   }
 .tabs-module .tab-content.tab-content-vertical{
     padding:0;
@@ -2165,4 +2166,9 @@ section {
 .tabs-module .navbar li.active a{
     color: #0a53be;
     border-top: 2px solid #0a58ca;
+}
+
+
+.navbar{
+    flex-wrap: unset !important;
 }

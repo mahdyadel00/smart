@@ -49,3 +49,6 @@ Route::middleware(['throttle:2,1'])->group(function () {
 });
 
 Route::view('/about', [AboutUsController::class, 'index'])->name('aboutus');
+
+Route::get('/file-upload', [ContentController::class, 'fileUpload'])->name('file.upload');
+Route::post('/file-upload', [ContentController::class, 'fileUploadPost'])->name('file.upload.post');
