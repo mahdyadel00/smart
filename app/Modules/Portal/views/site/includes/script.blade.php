@@ -20,8 +20,10 @@
 <script src="{{asset('site/js/custom.js')}}"></script>
 <script src="{{asset('site/js/backend.js')}}"></script>
 
-@stack('js')  --}}
+{{--@stack('js')  --}}
 
+<script src="{{ asset('site') }}/jquery-3.6.0.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 <script src="{{ asset('site') }}/vendor/purecounter/purecounter.js"></script>
 <script src="{{ asset('site') }}/vendor/aos/aos.js"></script>
 <script src="{{ asset('site') }}/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
@@ -33,5 +35,4 @@
 <!-- Template Main JS File -->
 <script src="{{ asset('site') }}/js/main.js"></script>
 
-<script src="{{ asset('site') }}/jquery-3.6.0.min.js"></script>
 

@@ -3,6 +3,8 @@
 namespace App\Modules\Portal\Controllers;
 
 use App\Bll\Lang;
+use App\Modules\Admin\Models\Modules\ContentModules;
+use App\Modules\Admin\Models\Modules\ModulesContent;
 use Illuminate\Http\Request;
 
 use App\Http\Controllers\Controller;
@@ -23,10 +25,13 @@ class ContentController extends Controller
             'goalModule.Data',
             'InsturcationModule.Data',
         ])->where('id' , $id)->first();
-        // dd($modules);
+
         // $goals_modules = GoalsModules::with('Data')->first();
         // $insturcation_modules = Insturction::with('Data')->first();
-        return view('site.modules.home' , compact('modules'));
+
+        $contents = ContentModules::where('module_id',$id)->get();
+
+        return view('site.modules.home' , compact('modules','contents'));
     }
 
 }

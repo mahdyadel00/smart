@@ -11,9 +11,10 @@ $site_settings = \App\Bll\Site::getSettingsData();
 
 <body>
 
-    @include('site.modules.nav')
+    @include('site.layout.nav')
 
     <section>
+
 
         @yield('content_module')
     </section>
