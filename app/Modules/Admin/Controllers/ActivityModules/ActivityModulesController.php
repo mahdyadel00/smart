@@ -26,7 +26,9 @@ class ActivityModulesController extends Controller
                     if (Auth::user()->hasPermissionTo('Update_activity_modules')) {
 
                         $html .= "<a href='" . route('activity_modules.edit', $query->id) . "' class='btn waves-effect waves-light btn-success text-center edit-row mr-1 ml-1' data-id='" . $query->id . "'  data-title='" . $query->title . "'  data-description='" . $query->description . "' data-url='" . route('activity_modules.edit', $query->id) . "'>" . _i('Edit') . "</a>";
-                        $html .= "<a href='" . route('activity_modules.show', $query->id) . "' class='btn waves-effect waves-light btn-success text-center edit-row mr-1 ml-1' data-id='" . $query->id . "'  data-title='" . $query->title . "'  data-description='" . $query->description . "' data-url='" . route('activity_modules.show', $query->id) . "'>" . _i('View') . "</a>";
+                       
+                         
+                        $html .= "<a href='" . route('activity_modules.show', $query->module_id) . "' class='btn waves-effect waves-light btn-success text-center edit-row mr-1 ml-1' data-id='" . $query->id . "'  data-title='" . $query->title . "'  data-description='" . $query->description . "' data-url='" . route('activity_modules.show', $query->module_id) . "'>" . _i('View') . "</a>";
                     }
                     if (Auth::user()->hasPermissionTo('Delete_activity_modules')) {
 
@@ -142,12 +144,11 @@ class ActivityModulesController extends Controller
 
     protected function show($id)
     {
-        $avtivity_module = ActivityModule::where('id' , $id)->pluck('module_id')->toArray();
         
-        // $module = Modules::with('Data')->where()->get();
-        // $avtivity_module_upload = ActivityModuleUpload::where('activity_id', $module->id)->first();
+        $module = Modules::with('Data')->where('id' , $id)->first();
+        $avtivity_module_upload = ActivityModuleUpload::where('module_id', $module->id)->first();
 
-        return view('admin.avtivity_module.edit', compact('avtivity_module'  , 'module'));
+        return view('admin.avtivity_module.show', compact('module' , 'avtivity_module_upload'));
     }//End of Edit
 
     protected function edit($id)

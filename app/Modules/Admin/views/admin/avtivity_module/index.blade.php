@@ -16,6 +16,7 @@
                     <a href="{{ route('activity_modules.create') }}" class="btn btn-primary create add-permissiont"
                         type="button"><span><i class="ti-plus"></i> {{ _i('create new ActivityModule ') }} </span></a>
                 </span>
+               
             </div>
             @endcan
             <div class="col-sm-12">
