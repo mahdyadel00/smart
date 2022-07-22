@@ -142,12 +142,12 @@ class ActivityModulesController extends Controller
 
     protected function show($id)
     {
-        // $avtivity_module = ActivityModule::where('id' , $id)->pluck('module_id')->toArray();
+        $avtivity_module = ActivityModule::where('id' , $id)->pluck('module_id')->toArray();
         
-        // // $module = Modules::with('Data')->where()->get();
-        // // $avtivity_module_upload = ActivityModuleUpload::where('activity_id', $module->id)->first();
+        // $module = Modules::with('Data')->where()->get();
+        // $avtivity_module_upload = ActivityModuleUpload::where('activity_id', $module->id)->first();
 
-        // return view('admin.avtivity_module.edit', compact('avtivity_module'));
+        return view('admin.avtivity_module.edit', compact('avtivity_module'  , 'module'));
     }//End of Edit
 
     protected function edit($id)

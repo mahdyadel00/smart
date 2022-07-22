@@ -12,7 +12,7 @@
                 @foreach( $activity_modules as $activity)
 
                     <h1 data-aos="fade-up">{{ $activity->Data ? $activity->Data->title : '' }}</h1>
-                    <h2 data-aos="fade-up" data-aos-delay="400">{!! $activity->Data ? $activity->Data->body : '' !!}</h2>
+                    <h2 data-aos="fade-up" data-aos-delay="400">{!! $activity->Data ? $activity->Data->description : '' !!}</h2>
                 @endforeach
                 <div data-aos="fade-up" data-aos-delay="600">
                     
