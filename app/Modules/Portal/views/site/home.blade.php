@@ -395,6 +395,7 @@
 
   </main>
 
+    @if(\Illuminate\Support\Facades\Auth::check())
 
     <div class="modal fade" id="largeModal" data-keyboard="false" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="largeModal" >
         <div class="modal-dialog modal-lg">
@@ -407,18 +408,17 @@
                 <div class="modal-body text-center" >
                     <form action="{{ route('userGroup') }}" method='post' id='add-form'>
                         @csrf
-                    @can('Entry2')
-                        <button type="button"  class="btn btn-primary group-btn" data-value="2">{{_i('Group Two')}}</button>
-                    @endcan
-                    @can('Entry1')
+
                         <button type="button" class="btn btn-primary group-btn" data-value="1">{{_i('Group One')}}</button>`
-                    @endcan
+                        <button type="button"  class="btn btn-primary group-btn" data-value="2">{{_i('Group Two')}}</button>
+
+
                     </form>
                 </div>
             </div>
         </div>
     </div>
-
+@endif
 
 @endsection
 
