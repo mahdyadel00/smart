@@ -396,4 +396,38 @@
   </main>
 
 
+    <div class="modal fade" id="largeModal" data-keyboard="false" data-backdrop="static" tabindex="-1" role="dialog" aria-labelledby="largeModal" >
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class=" text-center">
+                    {{--<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>--}}
+                    <h4 class="modal-title" id="myModalLabel">{{_i('Choose Group')}}</h4>
+                </div>
+
+                <div class="modal-body text-center" >
+                    {{--@can('Entry2')--}}
+                        <button type="button"  class="btn btn-primary">{{_i('Group Two')}}</button>
+                    {{--@endcan--}}
+                    {{--@can('Entry1')--}}
+                        <button type="button" class="btn btn-primary">{{_i('Group One')}}</button>
+                    {{--@endcan--}}
+
+                </div>
+            </div>
+        </div>
+    </div>
+
+
 @endsection
+
+@if(\Illuminate\Support\Facades\Auth::check())
+@push('js')
+    <script>
+        $( document ).ready(function() {
+
+            $('#largeModal').modal('show', {backdrop: 'static', keyboard: false});
+
+        });
+    </script>
+@endpush
+@endif
