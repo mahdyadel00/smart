@@ -36,6 +36,98 @@
          opacity: 1 !important;
     }
 
+
+    .floatingButtonWrap {
+        display: block;
+        position: fixed;
+        bottom: 45px;
+        left: 45px;
+        z-index: 999999999;
+    }
+
+    .floatingButtonInner {
+        position: relative;
+    }
+
+    .floatingButton {
+        display: block;
+        width: 60px;
+        height: 60px;
+        text-align: center;
+        background: -webkit-linear-gradient(45deg, #8769a9, #507cb3);
+        background: -o-linear-gradient(45deg, #8769a9, #507cb3);
+        background: linear-gradient(45deg, #8769a9, #507cb3);
+        color: #fff;
+        line-height: 50px;
+        position: absolute;
+        border-radius: 50% 50%;
+        bottom: 0px;
+        left: 0px;
+        border: 5px solid #b2bedc;
+        /* opacity: 0.3; */
+        opacity: 1;
+        transition: all 0.4s;
+    }
+
+    .floatingButton .fa {
+        font-size: 15px !important;
+    }
+
+    .floatingButton.open,
+    .floatingButton:hover,
+    .floatingButton:focus,
+    .floatingButton:active {
+        opacity: 1;
+        color: #fff;
+    }
+
+
+    .floatingButton .fa {
+        transform: rotate(0deg);
+        transition: all 0.4s;
+    }
+
+    .floatingButton.open .fa {
+        transform: rotate(270deg);
+    }
+
+    .floatingMenu {
+        position: absolute;
+        bottom: 46px;
+        left: 0px;
+        /* width: 200px; */
+        display: none;
+    }
+
+    .floatingMenu li {
+        width: 100%;
+        float: right;
+        list-style: none;
+        text-align: right;
+        margin-bottom: 0px;
+    }
+
+    .floatingMenu li a {
+        padding: 4px 15px;
+        display: inline-block;
+        background: #ccd7f5;
+        color: #6077b0;
+        border-radius: 5px;
+        overflow: hidden;
+        white-space: nowrap;
+        transition: all 0.4s;
+        /* -webkit-box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.22);
+        box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.22); */
+        -webkit-box-shadow: 1px 3px 5px rgba(211, 224, 255, 0.5);
+        box-shadow: 1px 3px 5px rgba(211, 224, 255, 0.5);
+    }
+
+    .floatingMenu li a:hover {
+        margin-right: 10px;
+        text-decoration: none;
+    }
+
+
 </style>
 
 
@@ -76,4 +168,24 @@
     </div>
 
 
+<div class="floatingButtonWrap">
+    <div class="floatingButtonInner">
+        <a href="#" class="floatingButton">
+           {{_i('help')}}
+        </a>
+        <ul class="floatingMenu">
+            <li>
+                <a href="#">{{_i('Video')}}</a>
+            </li>
+            <li>
+                <a href="#">{{_i('Images')}}</a>
+            </li>
+            <li>
+                <a href="#">{{_i('Teaching')}}</a>
+            </li>
+
+
+        </ul>
+    </div>
+</div>
 
