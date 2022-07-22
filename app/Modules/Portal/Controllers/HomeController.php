@@ -5,6 +5,7 @@ namespace App\Modules\Portal\Controllers;
 use App\Bll\Lang;
 use App\Bll\Utility;
 use App\Models\Language;
+use App\Models\User;
 use Illuminate\Http\Request;
 use App\Modules\Admin\Models\Main\Main;
 use Illuminate\Support\Facades\App;
@@ -12,6 +13,7 @@ use App\Http\Controllers\Controller;
 use App\Modules\Admin\Models\Help\Help;
 use App\Modules\Admin\Models\Main\MainGoals;
 use App\Modules\Admin\Models\Main\Insturcation;
+use Illuminate\Support\Facades\Auth;
 use Xinax\LaravelGettext\Facades\LaravelGettext;
 
 class HomeController extends Controller
@@ -40,6 +42,17 @@ class HomeController extends Controller
             session()->put('lang', $language['code']);
         }
         return  redirect()->back();
+    }
+
+
+    public function addUserGroup(Request $request)
+    {
+        $user = User::where('id',Auth::user()->id)->first();
+
+        $user->group_id = $request->val;
+        $user->save();
+
+        return response('success');
     }
 
 

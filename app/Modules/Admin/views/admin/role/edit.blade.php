@@ -92,7 +92,7 @@
                 type: "get",
                 success: function (result) {
                     var data = result;
-                   // console.log(data.length);
+                   console.log(data.length);
                     var html = "";
                     for (var i = 0; i < data.length; i++)
                     {
