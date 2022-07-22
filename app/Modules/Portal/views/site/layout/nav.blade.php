@@ -1,5 +1,8 @@
 @php
-$modules = App\Modules\Admin\Models\Modules\Modules::with('Data')->get();
+if (Auth()->check()){
+$modules = App\Modules\Admin\Models\Modules\Modules::where('group_module_id',Auth()->user()->group_id)->with('Data')->get();
+}
+
 @endphp
 <header id="header" class="header fixed-top">
     <div class="container-fluid container-xl d-flex align-items-center justify-content-between" style="max-width: fit-content;">
@@ -18,6 +21,7 @@ $modules = App\Modules\Admin\Models\Modules\Modules::with('Data')->get();
                 @auth
                     <li><a class="nav-link scrollto {{ request()->is('quiz*') ? 'active' : '' }}"
                             href="{{ route('quiz') }}">{{ _i('Befor Quiz') }}</a></li>
+                @if(Auth()->user()->group_id != null)
                     <li class="dropdown"><a href="#"><span>{{ _i('All Modules') }}</span> <i
                                 class="bi bi-chevron-down"></i></a>
                         <ul>
@@ -29,6 +33,13 @@ $modules = App\Modules\Admin\Models\Modules\Modules::with('Data')->get();
 
                         </ul>
                     </li>
+                    @else
+                        <li class="dropdown"><a href="#"><span>{{ _i('All Modules') }}</span> <i class="bi bi-chevron-down"></i></a>
+                            <ul>
+                                <li><a class="btn openModal">{{ _i('Please Choose Group') }}</a class></li>
+                            </ul>
+                        </li>
+                    @endif
                     <li><a class="nav-link scrollto {{ request()->is('quiz*') ? 'active' : '' }}"
                             href="{{ route('quiz') }}">{{ _i('After Quiz') }}</a></li>
                 @endauth

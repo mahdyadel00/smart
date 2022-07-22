@@ -431,6 +431,9 @@
 
         });
 
+        $('body').on('click', '.openModal', function (e) {
+            $('#largeModal').modal('show', {backdrop: 'static', keyboard: false});
+        });
 
         $('body').on('click', '.group-btn', function (e) {
             e.preventDefault();
@@ -446,7 +449,9 @@
                 // contentType : false,
                 // processData : false,
                 success: function (response) {
+
                     $('.modal').modal('hide');
+                    location.reload();
                 },
             });
         });
