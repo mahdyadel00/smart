@@ -31,6 +31,7 @@ Route::post('/my-profile/{id}/edit' , [LoginController::class , 'edit'])->name('
 Route::get('/', \App\Modules\Portal\Controllers\HomeController::class . '@index')->name('home');
 Route::get('/lang/{locale?}', \App\Modules\Portal\Controllers\HomeController::class . '@changeHomeLang')->name('change_language');
 Route::get('blog/categories', \App\Modules\Portal\Controllers\BlogController::class . '@categories')->name('allcategory');
+Route::post('/group-user', \App\Modules\Portal\Controllers\HomeController::class . '@addUserGroup')->name('userGroup');
 
 Route::get('contact-us', [ContactController::class, 'contact_us'])->name('contact');
 Route::post('contact-us', [ContactController::class, 'contactSave'])->name('contact.post');

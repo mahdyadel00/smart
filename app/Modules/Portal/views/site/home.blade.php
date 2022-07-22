@@ -405,13 +405,15 @@
                 </div>
 
                 <div class="modal-body text-center" >
-                    {{--@can('Entry2')--}}
-                        <button type="button"  class="btn btn-primary">{{_i('Group Two')}}</button>
-                    {{--@endcan--}}
-                    {{--@can('Entry1')--}}
-                        <button type="button" class="btn btn-primary">{{_i('Group One')}}</button>
-                    {{--@endcan--}}
-
+                    <form action="{{ route('userGroup') }}" method='post' id='add-form'>
+                        @csrf
+                    @can('Entry2')
+                        <button type="button"  class="btn btn-primary group-btn" data-value="2">{{_i('Group Two')}}</button>
+                    @endcan
+                    @can('Entry1')
+                        <button type="button" class="btn btn-primary group-btn" data-value="1">{{_i('Group One')}}</button>`
+                    @endcan
+                    </form>
                 </div>
             </div>
         </div>
@@ -420,7 +422,7 @@
 
 @endsection
 
-@if(\Illuminate\Support\Facades\Auth::check())
+@if(\Illuminate\Support\Facades\Auth::check() && \Illuminate\Support\Facades\Auth::user()->group_id == null)
 @push('js')
     <script>
         $( document ).ready(function() {
@@ -428,6 +430,27 @@
             $('#largeModal').modal('show', {backdrop: 'static', keyboard: false});
 
         });
+
+
+        $('body').on('click', '.group-btn', function (e) {
+            e.preventDefault();
+            var url = '{{route("userGroup")}}';
+            var val = $(this).attr('data-value');
+
+            $.ajax({
+                url: url,
+                method: "post",
+                data: {val:val, _token: "{{csrf_token()}}"},
+                // dataType: 'json',
+                // cache       : false,
+                // contentType : false,
+                // processData : false,
+                success: function (response) {
+                    $('.modal').modal('hide');
+                },
+            });
+        });
+
     </script>
 @endpush
 @endif
