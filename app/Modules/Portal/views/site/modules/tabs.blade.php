@@ -26,17 +26,17 @@
 
             </div>
             <div class="tab-pane" id="2a">
-                <h3>We use the class nav-pills instead of nav-tabs which automatically creates a background color for the tab</h3>
+            @include('site.modules.include.goals')
             </div>
             <div class="tab-pane" id="3a">
-                <h3>We applied clearfix to the tab-content to rid of the gap between the tab and the content</h3>
-            </div>
+                    @include('site.modules.include.insturcation')
+                </div>
             <div class="tab-pane" id="4a">
                 @include('site.modules.include.content')
 
             </div>
             <div class="tab-pane" id="5a">
-                <h3>tesasdddddddddddddddddssss</h3>
+            @include('site.modules.include.activty')
             </div>
             <div class="tab-pane" id="6a">
                 <h3>ssdasdasdasdasdasd be equal to the tab</h3>

@@ -165,11 +165,11 @@ class InstructionsController extends Controller
             if (file_exists(public_path($insturction->image))) {
                 unlink($image_path);
             }
-            $path = public_path().'/uploads/interoduction_modules';
+            $path = public_path().'/uploads/insturctions';
             $image = request('image');
             $image_name = time().request('image')->getClientOriginalName();
             $image->move($path , $image_name);
-            $image_in_db = '/uploads/interoduction_modules/'.$image_name;
+            $image_in_db = '/uploads/insturctions/'.$image_name;
         }
 
 

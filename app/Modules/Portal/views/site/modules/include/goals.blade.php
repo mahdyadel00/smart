@@ -9,10 +9,10 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 d-flex flex-column justify-content-center">
-                @foreach( $modules->interModule as $inter)
-
-                    <h1 data-aos="fade-up">{{ $inter->Data->isNotEmpty() ? $modules->Data->first()->title : '' }}</h1>
-                    <h2 data-aos="fade-up" data-aos-delay="400">{!! $inter->Data->isNotEmpty() ? $modules->Data->first()->body : '' !!}</h2>
+                @foreach( $goals_modules as $goal)
+        
+                    <h1 data-aos="fade-up">{{ $goal->Data->isNotEmpty() ? $goal->Data->first()->title : '' }}</h1>
+                    <h2 data-aos="fade-up" data-aos-delay="400">{!! $goal->Data->isNotEmpty() ? $goal->Data->first()->body : '' !!}</h2>
                 @endforeach
                 <div data-aos="fade-up" data-aos-delay="600">
                     {{--  <div class="text-center text-lg-start">
@@ -24,10 +24,9 @@
                 </div>
             </div>
             <div class="col-lg-6 hero-img" data-aos="zoom-out" data-aos-delay="200">
-                <img src="{{ asset($inter ? $inter->first()->image : '') }}" class="img-fluid" alt="">
+                <img src="{{ asset($goal ? $goal->first()->image : '') }}" class="img-fluid" alt="">
             </div>
         </div>
     </div>
 </section>
-
 

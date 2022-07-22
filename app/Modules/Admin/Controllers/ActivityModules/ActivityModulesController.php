@@ -6,7 +6,9 @@ use App\Bll\Lang;
 use App\Http\Controllers\Controller;
 use App\Models\Language;
 use App\Modules\Admin\Models\ActivityModule\ActivityModule;
+use App\Modules\Admin\Models\ActivityModule\ActivityModuleUpload;
 use App\Modules\Admin\Models\ActivityModule\ActivityModuleData;
+use  App\Modules\Admin\Models\Modules\Modules;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Yajra\DataTables\Facades\DataTables;
@@ -16,12 +18,7 @@ class ActivityModulesController extends Controller
 
     protected function index()
     {
-        $avtivity_module = ActivityModule::with([
-            'data' => function($query){
-
-                $query->where('lang_id' , Lang::getSelectedLangId());
-            },
-            ])->get();
+        $avtivity_module = ActivityModule::with('Data')->get();
         if (request()->ajax()) {
             return DataTables::of($avtivity_module)
                 ->editColumn('options', function ($query) {
@@ -29,6 +26,7 @@ class ActivityModulesController extends Controller
                     if (Auth::user()->hasPermissionTo('Update_activity_modules')) {
 
                         $html .= "<a href='" . route('activity_modules.edit', $query->id) . "' class='btn waves-effect waves-light btn-success text-center edit-row mr-1 ml-1' data-id='" . $query->id . "'  data-title='" . $query->title . "'  data-description='" . $query->description . "' data-url='" . route('activity_modules.edit', $query->id) . "'>" . _i('Edit') . "</a>";
+                        $html .= "<a href='" . route('activity_modules.show', $query->id) . "' class='btn waves-effect waves-light btn-success text-center edit-row mr-1 ml-1' data-id='" . $query->id . "'  data-title='" . $query->title . "'  data-description='" . $query->description . "' data-url='" . route('activity_modules.show', $query->id) . "'>" . _i('View') . "</a>";
                     }
                     if (Auth::user()->hasPermissionTo('Delete_activity_modules')) {
 
@@ -57,14 +55,14 @@ class ActivityModulesController extends Controller
 
              })->editColumn('title', function ($query) {
 
-                $data = $query->data->where('lang_id', Lang::getSelectedLangId())->first();
-                if ($data != null) {
+                // $data = $query->data->where('lang_id', Lang::getSelectedLangId())->first();
+                // if ($data != null) {
 
-                    return $data->title;
-                } else {
-                    $data = $query->data->first();
-                    return $data->title;
-                }
+                //     return $data->title;
+                // } else {
+                //     $data = $query->data->first();
+                    return $query->Data ? $query->Data->title : '';
+                // }
             })->editColumn('image', function($query) {
                 $image = asset(rawurlencode($query->image));
                 $html = "<img class='img-thumbnail' width=100 height=100 src=".$query->getImageNameEncoded().">";
@@ -97,8 +95,9 @@ class ActivityModulesController extends Controller
      */
     protected function create()
     {
+        $modules = Modules::with('Data')->get();
         $languages = Language::get();
-        return view('admin.avtivity_module.create', compact('languages'));
+        return view('admin.avtivity_module.create', compact('languages' , 'modules'));
     }// End of Create
 
     protected function store(Request $request)
@@ -125,6 +124,7 @@ class ActivityModulesController extends Controller
         $avtivity_module = ActivityModule::create([
             'image' => $image_in_db,
             'status' => $request->status,
+            'module_id' => $request->module_id,
         ]);
 
         $avtivity_module_data = ActivityModuleData::create([
@@ -140,18 +140,29 @@ class ActivityModulesController extends Controller
 
     }
 
+    protected function show($id)
+    {
+        // $avtivity_module = ActivityModule::where('id' , $id)->pluck('module_id')->toArray();
+        
+        // // $module = Modules::with('Data')->where()->get();
+        // // $avtivity_module_upload = ActivityModuleUpload::where('activity_id', $module->id)->first();
+
+        // return view('admin.avtivity_module.edit', compact('avtivity_module'));
+    }//End of Edit
+
     protected function edit($id)
     {
+        $modules = Modules::with('Data')->get();
         $avtivity_module = ActivityModule::findOrFail($id);
-        $avtivity_module_data = ActivityModuleData::where('activity_id', $avtivity_module->id)->where('lang_id', Lang::getSelectedLangId())->first();
-        return view('admin.avtivity_module.edit', compact('avtivity_module', 'avtivity_module_data'));
+        $avtivity_module_data = ActivityModuleData::where('activity_id', $avtivity_module->id)->first();
+        // dd($avtivity_module_data);
+        return view('admin.avtivity_module.edit', compact('avtivity_module', 'avtivity_module_data' , 'modules'));
     }//End of Edit
 
     protected function update(Request $request, $id)
     {
-
         $avtivity_module = ActivityModule::where("id", $id)->first();
-
+       
         if ($request->has('status')) {
 
             $avtivity_module->status = $request->status;
@@ -159,21 +170,39 @@ class ActivityModulesController extends Controller
 
             $avtivity_module->status = 0;
         }
-
-        $avtivity_module_data = ActivityModuleData::where('quiz_id', $avtivity_module->id)->first();
-
-        // dd($request->answer);
-        if ($request->has('answer')) {
-
-            $avtivity_module_data->answer = $request->answer == 1;
+        if (!$request->image) {
+            $image_in_db = $avtivity_module->image;
         } else {
-            $avtivity_module_data->answer = 0;
+            $request->validate([
+                'image' => 'required|image|mimes:jpeg,png,jpg,gif,svg,webp',
+            ]);
+
+            $image_path = public_path($avtivity_module->image);
+            if (file_exists(public_path($avtivity_module->image))) {
+                unlink($image_path);
+            }
+            $path = public_path() . '/uploads/avtivity_module';
+            $image = request('image');
+            $image_name = time() . request('image')->getClientOriginalName();
+            $image->move($path, $image_name);
+            $image_in_db = '/uploads/avtivity_module/' . $image_name;
         }
+        ActivityModule::where('id' , $id)->update([
+            'image'	=> $image_in_db,
+            'module_id'	=> $request->module_id,
+            'status'	=> $request->status ??  0,
+        ]);
 
-        $avtivity_module->save();
-        $avtivity_module_data->save();
+        ActivityModuleData::where('activity_id', $avtivity_module->id)->update([
 
-        return redirect()->back()->with('flash_message', _i('Updated Successfully !'));
+            'activity_id' => $avtivity_module->id,
+            'title' => $request->title,
+            'description' => $request->description,
+            'lang_id' => Lang::getSelectedLangId(),
+        ]);
+
+      
+        return redirect()->route('activity_modules.index')->with('flash_message', _i('Updated Successfully !'));
     }//End of Update
 
     public function getTranslation(Request $request)

@@ -9,6 +9,8 @@ use App\Models\User;
 use Illuminate\Http\Request;
 use App\Http\Controllers\Controller;
 use App\Modules\Admin\Models\ActivityModule\ActivityModule;
+use App\Modules\Admin\Models\Modules\GoalsModules;
+use App\Modules\Admin\Models\Insturctions\Insturction;
 use App\Modules\Admin\Models\ActivityModule\ActivityModuleUpload;
 use App\Modules\Admin\Models\Modules\Modules;
 
@@ -27,13 +29,14 @@ class ContentController extends Controller
             'InsturcationModule.Data',
         ])->where('id', $id)->first();
         // dd($modules);
-        // $goals_modules = GoalsModules::with('Data')->first();
-        // $insturcation_modules = Insturction::with('Data')->first();
-
+        $goals_modules = GoalsModules::with('Data')->where('module_id' , $modules->id)->get();
+        $insturcation_modules = Insturction::with('Data')->where('module_id' , $modules->id)->get();
+        $activity_modules = ActivityModule::with('Data')->where('module_id' , $modules->id)->get();
+            // dd($activity_modules);
 
         $contents = ContentModules::where('module_id',$id)->get();
 
-        return view('site.modules.home' , compact('modules','contents'));
+        return view('site.modules.home' , compact('modules','contents' , 'goals_modules' , 'insturcation_modules' , 'activity_modules'));
     }
 
     public function fileUpload()

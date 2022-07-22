@@ -117,7 +117,8 @@ Route::prefix('admin')->group(function () {
         Route::get('activity_modules/create', [ActivityModulesController::class, 'create'])->name('activity_modules.create');
         Route::post('activity_modules/store', [ActivityModulesController::class, 'store'])->name('activity_modules.store');
         Route::get('activity_modules/{id}/edit', [ActivityModulesController::class, 'edit'])->name('activity_modules.edit');
-        Route::post('activity_modules/update', [ActivityModulesController::class, 'update'])->name('activity_modules.update');
+        Route::get('activity_modules/{id}/show', [ActivityModulesController::class, 'show'])->name('activity_modules.show');
+        Route::post('activity_modules/{id}/update', [ActivityModulesController::class, 'update'])->name('activity_modules.update');
         Route::get('activity_modules/get_translation', [ActivityModulesController::class, 'getTranslation'])->name('activity_modules.get.translation');
         Route::post('activity_modules/store_translation', [ActivityModulesController::class, 'storeTranslation'])->name('activity_modules.store.translation');
         Route::get('activity_modules/{id}', [ActivityModulesController::class, 'delete'])->name('activity_modules.delete');

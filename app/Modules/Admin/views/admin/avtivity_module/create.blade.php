@@ -42,13 +42,32 @@
                             @endif
                         </div>
                     </div>  
+
+                      <!-- ---------------------------------------------** Modules ** -------------------------------------------------------------- -->
+
+                      <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" for="checkbox">
+                            {{ _i('Modules') }}
+                        </label>
+                        <div class="col-sm-10">
+                            <label>
+                               <select name="module_id" id="module_id" class="form-control">
+                                   <option value="0">{{ _i('Select Module') }}</option>
+                                   @foreach ($modules as $module)
+                                    <option value="{{ $module->id }}">{{ $module->Data->isNotEmpty() ? $module->Data->first()->title : '' }}</option>
+                                   @endforeach
+                               </select>
+
+                            </label>
+                        </div>
+                    </div>
                     <!-- ---------------------------------------------** Description ** -------------------------------------------------------------- -->
                     
                     <div class="form-group row">
                         <label for="name" class="col-sm-2 col-form-label"> {{ _i('Description') }} <span
                                 style="color: #F00;">*</span></label>
                         <div class="col-sm-10">
-                            <textarea type="text" name="description" class='form-control'></textarea>
+                            <textarea type="text" name="description" class='form-control ckeditor'></textarea>
                             @if ($errors->has('description'))
                                 <span class="text-danger invalid-feedback" role="alert">
                                     <strong>{{ $errors->first('description') }}</strong>

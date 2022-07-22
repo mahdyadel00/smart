@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: MultilanguageLaravelApplication\n"
-"POT-Creation-Date: 2022-07-16 23:48+0200\n"
-"PO-Revision-Date: 2022-07-16 23:50+0200\n"
+"POT-Creation-Date: 2022-07-22 11:23+0200\n"
+"PO-Revision-Date: 2022-07-22 11:28+0200\n"
 "Last-Translator: James Translator <james@translations.colm>\n"
 "Language-Team: James Translator <james@translations.colm>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Poedit 3.1.1\n"
 "X-Poedit-KeywordsList: _;__;_i;_s;gettext;_n:1,2;ngettext:1,2;dgettext:2\n"
 "X-Poedit-Basepath: ../../../../../app\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -25,64 +25,71 @@ msgstr "كل انشطة الموديول"
 
 #: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:33
 #: ../storage/framework/messages/02ce4dfac8b90ac67359317396c2561ec075f973.php.php:24
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:48
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:26
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:48
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:50
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:28
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:50
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:25
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:106
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:41
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:77
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:81
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:43
 #: ../storage/framework/messages/2a221dada5a0d9aba07fe37876e499fd8d9e49ef.php.php:63
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:79
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:29
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:63
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:81
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:11
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:86
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:222
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:72
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:30
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:124
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:74
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:25
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:106
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:26
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:28
 #: ../storage/framework/messages/5127a32c17c99c200cee52607a01ca77cf087a5a.php.php:17
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:26
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:29
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:26
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:31
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:27
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:60
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:27
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:60
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:15
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:74
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:28
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:30
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:28
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:33
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:29
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:63
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:29
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:62
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:29
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:62
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:30
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:27
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:61
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:29
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:63
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:29
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:25
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:119
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:25
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:106
 #: ../storage/framework/messages/a85416c3c1eb82443d9cfcdf2b614a1922ec5f5b.php.php:30
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:104
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:11
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:48
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:148
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:41
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:43
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:63
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:33
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:25
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:106
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:27
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:60
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:29
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:62
 #: ../storage/framework/messages/cb1195c946ced75f0508dd3229e2c62565f5141b.php.php:15
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:61
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:27
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:61
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:27
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:61
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:41
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:29
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:63
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:29
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:63
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:43
 #: ../storage/framework/messages/e0f55fdcae73590b9222c66d2d4cd66800ce4ab4.php.php:26
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:48
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:27
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:62
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:50
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:29
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:64
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:15
 #: ../storage/framework/messages/f14cc74097a19ae2702009500981301b08b36ff9.php.php:24
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:27
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:61
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:29
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:63
 #: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:33
 #: Modules/Admin/views/admin/permission/create.blade.php:29
 #: Modules/Admin/views/admin/permission/edit.blade.php:30
@@ -93,46 +100,88 @@ msgstr "كل انشطة الموديول"
 msgid "Title"
 msgstr "العنوان"
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:46
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:61
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:47
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:14
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:16
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:49
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:49
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:43
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:170
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:176
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:46
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:29
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:43
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:46
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:44
+#: ../storage/framework/messages/7d19f62ee81ff10a9082d93c0dbe0c84fcc1fa53.php.php:3
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:46
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:32
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:42
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:29
+msgid "Modules"
+msgstr "الموديول"
+
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:53
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:22
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:55
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:55
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:49
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:50
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:33
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:49
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:50
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:50
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:50
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:38
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:46
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:33
+msgid "Select Module"
+msgstr "أختر الموديول"
+
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:65
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:63
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:32
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:91
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:32
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:40
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:42
 #: ../storage/framework/messages/578d8f9e742c6970987ef15d79697e6ee3ec1e81.php.php:28
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:55
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:40
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:61
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:57
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:62
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:63
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:75
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:32
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:54
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:118
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:56
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:46
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:32
 msgid "Description"
 msgstr "وصف"
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:60
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:31
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:40
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:31
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:79
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:33
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:42
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:33
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:82
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:26
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:31
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:26
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:73
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:40
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:33
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:28
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:33
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:28
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:71
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:28
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:42
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:40
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:45
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:47
 #: ../storage/framework/messages/8e7b39ae6df322b724f109199c464301a9abe768.php.php:33
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:80
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:26
-#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:70
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:28
+#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:71
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:60
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:26
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:28
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:74
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:31
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:33
 #: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:47
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:73
-#: Modules/Admin/Controllers/Help/HelpController.php:70
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:71
+#: Modules/Admin/Controllers/Help/HelpController.php:71
 #: Modules/Admin/Controllers/Questions/QuestiontController.php:80
 #: Modules/Admin/Controllers/QuestiontController.php:74
 #: Modules/Admin/Controllers/QuizModule/QuizeModuleController.php:82
@@ -141,62 +190,63 @@ msgstr "وصف"
 msgid "Published"
 msgstr "نشر"
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:76
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:55
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:84
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:28
-#: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:76
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:28
-#: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:63
-msgid "Answer"
-msgstr "اجابه"
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:95
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:32
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:32
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:32
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:32
+msgid "Image "
+msgstr "صورة "
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:93
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:109
 #: ../storage/framework/messages/02ce4dfac8b90ac67359317396c2561ec075f973.php.php:35
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:75
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:122
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:74
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:77
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:124
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:95
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:43
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:84
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:118
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:104
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:107
 #: ../storage/framework/messages/1fd288a433c66c9dcb4728011f18ea3262b935a4.php.php:44
 #: ../storage/framework/messages/223f77ac1dec1ca2853183a6f3cfaa2b5eac5832.php.php:55
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:68
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:105
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:90
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:91
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:107
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:33
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:117
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:69
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:141
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:99
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:48
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:102
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:136
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:101
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:43
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:84
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:118
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:51
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:158
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:100
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:53
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:160
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:102
 #: ../storage/framework/messages/5127a32c17c99c200cee52607a01ca77cf087a5a.php.php:40
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:80
 #: ../storage/framework/messages/578d8f9e742c6970987ef15d79697e6ee3ec1e81.php.php:68
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:82
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:78
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:101
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:84
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:84
 #: ../storage/framework/messages/5ead309cc43700fd0323b3cece5f38fe5a9c9a5b.php.php:71
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:31
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:120
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:84
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:90
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:46
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:88
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:88
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:106
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:92
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:91
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:48
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:90
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:90
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:80
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:86
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:130
 #: ../storage/framework/messages/92e5628d0f619e64228402283e62e7b0f1c26f6c.php.php:130
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:89
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:91
 #: ../storage/framework/messages/9d7bb14d48544f9fa506e23da1f2a0ce614bb1f6.php.php:71
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:51
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:43
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:97
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:131
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:43
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:84
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:118
@@ -205,75 +255,89 @@ msgstr "اجابه"
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:60
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:98
 #: ../storage/framework/messages/b431880f9f4bb394feb1599ce4d7d9650d8b3bf9.php.php:52
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:342
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:344
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:33
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:116
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:119
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:132
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:31
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:65
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:67
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:69
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:91
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:93
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:43
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:84
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:118
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:88
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:90
 #: ../storage/framework/messages/cb1195c946ced75f0508dd3229e2c62565f5141b.php.php:41
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:151
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:89
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:89
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:54
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:91
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:91
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:91
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:56
 #: ../storage/framework/messages/de7de4178151ae8a9d98383ddf1be27529d15186.php.php:206
 #: ../storage/framework/messages/e0f55fdcae73590b9222c66d2d4cd66800ce4ab4.php.php:48
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:68
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:61
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:90
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:70
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:63
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:92
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:78
 #: ../storage/framework/messages/f14cc74097a19ae2702009500981301b08b36ff9.php.php:35
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:89
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:91
 #: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:80
 msgid "Save"
 msgstr "حـفظ"
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:104
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:105
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:106
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:120
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:121
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:122
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:104
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:105
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:106
 msgid "Edit QuizModule"
 msgstr "تعديل الموديول"
 
-#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:109
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:91
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:136
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:90
+#: ../storage/framework/messages/00d6edfbf621b14df75a1bda6ef1319f45f29e65.php.php:125
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:93
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:138
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:111
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:118
 #: ../storage/framework/messages/10bff893e15c9a71f56b25f0f9bac6c60beb87b1.php.php:22
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:82
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:123
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:104
 #: ../storage/framework/messages/2a221dada5a0d9aba07fe37876e499fd8d9e49ef.php.php:22
 #: ../storage/framework/messages/2c1d8819cf12baf946e7edaf8f9d6a5b678fb2e5.php.php:22
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:121
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:123
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:135
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:113
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:113
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:96
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:97
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:106
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:115
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:115
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:96
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:91
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:115
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:98
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:100
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:119
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:108
 #: ../storage/framework/messages/890201f0ed22d042a93bd5221a6c8bb0c71594dc.php.php:13
 #: ../storage/framework/messages/890201f0ed22d042a93bd5221a6c8bb0c71594dc.php.php:34
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:96
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:125
 #: ../storage/framework/messages/92e5628d0f619e64228402283e62e7b0f1c26f6c.php.php:22
 #: ../storage/framework/messages/9f13bf30064029f95e30c9bbafb80254e7fa2353.php.php:22
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:149
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:134
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:81
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:148
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:83
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:109
 #: ../storage/framework/messages/c6ad9123a4e27f77c51cd2abf63e96e3de9f3fe7.php.php:21
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:79
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:81
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:22
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:68
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:104
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:70
 #: ../storage/framework/messages/d9a6ddeacaf2e08cda110fd86277ee5d97390a6a.php.php:124
 #: ../storage/framework/messages/de7de4178151ae8a9d98383ddf1be27529d15186.php.php:28
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:110
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:77
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:112
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:79
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:91
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:134
 #: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:96
 #: Modules/Admin/views/admin/layout/include/nav.php:13
@@ -283,22 +347,23 @@ msgstr "الكل"
 
 #: ../storage/framework/messages/02ce4dfac8b90ac67359317396c2561ec075f973.php.php:7
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:94
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:112
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:47
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:94
 #: ../storage/framework/messages/578d8f9e742c6970987ef15d79697e6ee3ec1e81.php.php:6
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:44
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:44
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:45
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:107
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:47
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:46
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:46
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:47
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:94
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:47
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:94
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:44
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:45
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:45
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:46
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:47
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:47
 #: ../storage/framework/messages/e0f55fdcae73590b9222c66d2d4cd66800ce4ab4.php.php:7
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:46
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:48
 #: ../storage/framework/messages/f14cc74097a19ae2702009500981301b08b36ff9.php.php:7
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:45
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:47
 msgid "Trans To"
 msgstr "الترجمة الى"
 
@@ -314,29 +379,25 @@ msgstr "عنوان الاذن"
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:82
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:116
 #: ../storage/framework/messages/223f77ac1dec1ca2853183a6f3cfaa2b5eac5832.php.php:52
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:89
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:32
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:68
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:140
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:46
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:100
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:134
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:41
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:82
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:116
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:50
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:52
 #: ../storage/framework/messages/5127a32c17c99c200cee52607a01ca77cf087a5a.php.php:37
 #: ../storage/framework/messages/578d8f9e742c6970987ef15d79697e6ee3ec1e81.php.php:66
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:30
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:86
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:86
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:89
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:88
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:88
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:83
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:101
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:129
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:87
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:89
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:48
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:41
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:95
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:129
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:41
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:82
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:116
@@ -348,17 +409,18 @@ msgstr "عنوان الاذن"
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:118
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:30
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:64
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:89
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:41
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:82
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:116
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:86
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:88
 #: ../storage/framework/messages/cb1195c946ced75f0508dd3229e2c62565f5141b.php.php:38
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:87
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:87
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:89
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:89
 #: ../storage/framework/messages/e0f55fdcae73590b9222c66d2d4cd66800ce4ab4.php.php:45
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:88
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:90
 #: ../storage/framework/messages/f14cc74097a19ae2702009500981301b08b36ff9.php.php:32
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:87
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:89
 msgid "Close"
 msgstr "إغلاق"
 
@@ -376,7 +438,7 @@ msgstr "الاسم الأول"
 
 #: ../storage/framework/messages/0436fb938f0b4dd460784296720cbc6a0cdcf6a5.php.php:29
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:57
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:73
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:75
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:13
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:23
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:57
@@ -391,7 +453,7 @@ msgstr "الاسم الأخير"
 
 #: ../storage/framework/messages/0436fb938f0b4dd460784296720cbc6a0cdcf6a5.php.php:40
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:68
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:86
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:88
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:22
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:24
 #: ../storage/framework/messages/5ead309cc43700fd0323b3cece5f38fe5a9c9a5b.php.php:24
@@ -403,20 +465,20 @@ msgid "Last Name"
 msgstr "الاسم الأخير"
 
 #: ../storage/framework/messages/0436fb938f0b4dd460784296720cbc6a0cdcf6a5.php.php:49
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:28
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:64
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:29
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:66
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:34
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:35
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:83
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:35
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:47
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:48
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:49
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:50
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:40
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:37
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:38
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:73
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:218
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:232
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:39
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:40
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:75
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:220
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:234
 #: ../storage/framework/messages/b8be6218db637d3a35398e9fdb18d92d245426dc.php.php:23
 #: Modules/Admin/views/admin/contacts/show.blade.php:63
 msgid "Email"
@@ -427,8 +489,8 @@ msgstr "البريد الالكتروني"
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:46
 #: ../storage/framework/messages/5bc9d2d4e610ff877abe27140456c48946a35ac3.php.php:53
 #: ../storage/framework/messages/5ead309cc43700fd0323b3cece5f38fe5a9c9a5b.php.php:47
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:52
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:53
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:54
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:55
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:56
 #: ../storage/framework/messages/d9a6ddeacaf2e08cda110fd86277ee5d97390a6a.php.php:56
 #: ../storage/framework/messages/de7de4178151ae8a9d98383ddf1be27529d15186.php.php:151
@@ -444,38 +506,41 @@ msgstr "تأكيد كلمة المرور"
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:18
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:70
 #: ../storage/framework/messages/223f77ac1dec1ca2853183a6f3cfaa2b5eac5832.php.php:39
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:23
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:88
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:71
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:18
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:70
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:33
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:54
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:69
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:30
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:54
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:56
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:65
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:48
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:71
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:31
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:76
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:34
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:76
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:78
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:71
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:39
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:68
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:68
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:70
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:70
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:65
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:60
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:71
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:69
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:18
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:83
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:71
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:18
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:70
 #: ../storage/framework/messages/b8be6218db637d3a35398e9fdb18d92d245426dc.php.php:22
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:71
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:18
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:70
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:68
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:69
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:28
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:69
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:70
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:71
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:30
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:71
 #: ../storage/framework/messages/d9a6ddeacaf2e08cda110fd86277ee5d97390a6a.php.php:71
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:30
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:70
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:69
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:32
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:72
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:48
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:71
 msgid "Image"
 msgstr "صورة المستخدم"
 
@@ -500,32 +565,35 @@ msgstr "المجموعة"
 #: ../storage/framework/messages/2a221dada5a0d9aba07fe37876e499fd8d9e49ef.php.php:23
 #: ../storage/framework/messages/2a221dada5a0d9aba07fe37876e499fd8d9e49ef.php.php:154
 #: ../storage/framework/messages/2c1d8819cf12baf946e7edaf8f9d6a5b678fb2e5.php.php:23
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:242
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:62
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:76
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:242
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:81
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:235
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:235
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:237
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:237
 #: ../storage/framework/messages/890201f0ed22d042a93bd5221a6c8bb0c71594dc.php.php:19
 #: ../storage/framework/messages/890201f0ed22d042a93bd5221a6c8bb0c71594dc.php.php:40
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:108
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:104
 #: ../storage/framework/messages/92e5628d0f619e64228402283e62e7b0f1c26f6c.php.php:23
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:239
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:241
 #: ../storage/framework/messages/9f13bf30064029f95e30c9bbafb80254e7fa2353.php.php:23
 #: ../storage/framework/messages/9f13bf30064029f95e30c9bbafb80254e7fa2353.php.php:137
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:96
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:235
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:238
 #: ../storage/framework/messages/c6ad9123a4e27f77c51cd2abf63e96e3de9f3fe7.php.php:22
 #: ../storage/framework/messages/c6ad9123a4e27f77c51cd2abf63e96e3de9f3fe7.php.php:119
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:235
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:237
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:23
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:239
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:239
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:241
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:241
 #: ../storage/framework/messages/d9a6ddeacaf2e08cda110fd86277ee5d97390a6a.php.php:108
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:92
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:241
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:94
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:243
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:162
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:240
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:242
 #: Modules/Admin/views/admin/layout/include/nav.php:19
 #: Modules/Admin/views/admin/layout/include/nav.php:40
 msgid "Add"
@@ -544,46 +612,15 @@ msgstr "إضافة"
 msgid "Admins"
 msgstr "المسؤلين"
 
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:12
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:14
 msgid "Questions Details"
 msgstr "تفاصيل الاختبارات"
 
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:86
-#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:87
 #: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:88
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:89
+#: ../storage/framework/messages/064fb8f6b711c269bb28c8835764a774b245ab9d.php.php:90
 msgid "Edit Questions Details"
 msgstr "تعديل السؤال"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:7
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:9
-#: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:53
-msgid "Smart Agent"
-msgstr "الوكيل الذكى"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:12
-msgid "Interoduction"
-msgstr "المقدمه"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:13
-msgid "Goals"
-msgstr "الاهداف"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:14
-msgid "Insturcation Module"
-msgstr "تعلميات الموديول"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:15
-msgid "Content"
-msgstr "المحتوي"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:16
-msgid "Activity"
-msgstr "كل انشطة الموديول"
-
-#: ../storage/framework/messages/06745e51b8ddf8162cac81c89beb67088efbf390.php.php:17
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:34
-msgid "After Quiz"
-msgstr "الاختبار البعدى"
 
 #: ../storage/framework/messages/074a3b41022cddbcb5301b8cfe9a44d81b79a7ac.php.php:36
 #: ../storage/framework/messages/5bc9d2d4e610ff877abe27140456c48946a35ac3.php.php:29
@@ -604,14 +641,14 @@ msgstr "تعديل كلمة المرور"
 msgid "membership"
 msgstr "العضوية"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:11
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:11
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:11
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:11
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:11
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:13
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:13
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:13
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:13
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:13
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:13
 #: ../storage/framework/messages/6c0d9b59149ca20fc30a56c45612a07a729f9cca.php.php:17
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:11
-#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:35
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:13
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:23
 #: ../storage/framework/messages/890201f0ed22d042a93bd5221a6c8bb0c71594dc.php.php:57
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:16
@@ -619,10 +656,11 @@ msgstr "العضوية"
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:16
 #: ../storage/framework/messages/a85416c3c1eb82443d9cfcdf2b614a1922ec5f5b.php.php:17
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:26
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:11
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:15
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:11
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:21
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:13
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:17
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:13
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:13
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:23
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:21
 #: Modules/Admin/Controllers/LanguageController.php:23
 #: Modules/Admin/views/admin/layout/include/nav.php:57
@@ -632,22 +670,24 @@ msgstr "العضوية"
 msgid "Language"
 msgstr "اللغات"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:15
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:15
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:15
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:15
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:15
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:17
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:17
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:17
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:17
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:17
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:17
 #: ../storage/framework/messages/6c0d9b59149ca20fc30a56c45612a07a729f9cca.php.php:20
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:15
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:17
 #: ../storage/framework/messages/8df6253abd2e9a010526b2170da09bdee3922609.php.php:19
 #: ../storage/framework/messages/9d7bb14d48544f9fa506e23da1f2a0ce614bb1f6.php.php:25
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:19
 #: ../storage/framework/messages/a85416c3c1eb82443d9cfcdf2b614a1922ec5f5b.php.php:20
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:29
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:15
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:18
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:15
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:24
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:17
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:20
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:17
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:17
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:26
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:24
 #: Modules/Admin/views/admin/permission/create.blade.php:19
 #: Modules/Admin/views/admin/permission/edit.blade.php:20
@@ -661,86 +701,104 @@ msgstr "اللغات"
 msgid "CHOOSE"
 msgstr "اختر"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:20
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:20
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:20
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:20
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:20
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:20
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:20
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:20
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:22
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:22
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:22
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:22
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:22
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:22
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:22
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:22
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:22
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:22
 msgid "Please select language "
 msgstr "يرجى اختيار اللغة"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:69
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:57
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:86
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:30
+#: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:76
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:30
+#: ../storage/framework/messages/fb0a35c412f0a3d0c831792dbe35d1273800310e.php.php:63
+msgid "Answer"
+msgstr "اجابه"
+
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:71
 msgid "Option1"
 msgstr "الخيار رقم 1"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:82
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:84
 msgid "Option2"
 msgstr "الخيار رقم 2"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:95
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:97
 msgid "Option3"
 msgstr "الخيار رقم 3"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:108
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:110
 msgid "Option4"
 msgstr "الخيار رقم 4"
 
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:131
-#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:132
 #: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:133
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:134
+#: ../storage/framework/messages/08e39d407c97487ebcb035360e269d9eef99a3e2.php.php:135
 msgid "Add Questions"
 msgstr "أضافة سؤال"
 
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:12
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:47
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:41
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:170
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:176
-#: ../storage/framework/messages/7d19f62ee81ff10a9082d93c0dbe0c84fcc1fa53.php.php:1
-msgid "Modules"
-msgstr "الموديول"
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:63
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:58
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:186
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:67
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:68
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:69
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:71
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:14
+msgid "Group Module"
+msgstr "مجموعات  الموديول"
 
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:61
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:67
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:62
+msgid "Select Group Module"
+msgstr "أختر مجموعة الموديول"
+
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:82
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:110
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:55
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:92
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:86
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:37
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:128
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:94
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:77
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:94
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:88
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:110
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:32
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:123
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:88
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:110
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:110
 msgid "Body"
 msgstr "محتوى الرسالة"
 
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:85
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:86
-#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:87
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:118
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:62
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:106
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:107
+#: ../storage/framework/messages/0b8ff69832d2fe2b47c0e8f0de68f24d6772e1ad.php.php:108
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:120
 msgid "Edit Modules"
 msgstr "تعديل الموديول"
 
 #: ../storage/framework/messages/0b90a9530a0503a2acd3cdd7a48d9222e72f03c1.php.php:28
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:32
+#: ../storage/framework/messages/11e13b6023501b381978f02c002c6b4d87f633aa.php.php:27
 #: ../storage/framework/messages/1d1cce007a1b4aacf3db4a4f6e566933417ba640.php.php:28
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:36
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:37
 #: ../storage/framework/messages/342121eb205e51dfb39c6529269aacc541af9e45.php.php:33
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:31
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:28
+#: ../storage/framework/messages/553689a2b91c263071acddeade7e0d77583eaad4.php.php:26
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:37
-#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:34
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:37
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:61
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:73
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:37
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:114
+#: ../storage/framework/messages/78cc7d82386a0d6fd0e5e2d429fcec399d0b1526.php.php:31
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:129
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:42
-#: ../storage/framework/messages/87d590e5fd7d388af581478bb4bfeeee8bf73fca.php.php:32
+#: ../storage/framework/messages/87d590e5fd7d388af581478bb4bfeeee8bf73fca.php.php:33
 #: ../storage/framework/messages/8e7b39ae6df322b724f109199c464301a9abe768.php.php:38
 #: ../storage/framework/messages/9be442522a9645ace7d64e1a25f1409d3a2a93d5.php.php:27
 #: ../storage/framework/messages/9d940efeac08c5f787ee99e4c34d79cfbfb91fd1.php.php:33
@@ -750,20 +808,24 @@ msgstr "تعديل الموديول"
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:24
 #: ../storage/framework/messages/d9e6ef912afd20317abccbf030bed75ad709f1ea.php.php:32
 #: ../storage/framework/messages/de7de4178151ae8a9d98383ddf1be27529d15186.php.php:29
-#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:33
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:34
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:32
 #: ../storage/framework/messages/f7ade9677f33b3b3f0dc7440d1e204fbc426e23d.php.php:30
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:31
+#: ../storage/framework/messages/f81fbad30c2e13fe3d5651518c05584e543cb5f0.php.php:26
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:28
+#: Modules/Admin/Controllers/ContentModule/ContentModuleController.php:26
+#: Modules/Admin/Controllers/GroupModule/GroupModuleController.php:27
 #: Modules/Admin/Controllers/Help/HelpController.php:32
-#: Modules/Admin/Controllers/Instructions/InstructionsController.php:33
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:34
 #: Modules/Admin/Controllers/LanguageController.php:129
-#: Modules/Admin/Controllers/Login/LoginController.php:32
+#: Modules/Admin/Controllers/Login/LoginController.php:33
 #: Modules/Admin/Controllers/Main/MainController.php:32
 #: Modules/Admin/Controllers/Main/MainGoalsController.php:33
 #: Modules/Admin/Controllers/Main/MainInsturcationController.php:33
-#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:34
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:37
+#: Modules/Admin/Controllers/Modules/HelpModulesController.php:31
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:37
-#: Modules/Admin/Controllers/Modules/ModulesController.php:36
+#: Modules/Admin/Controllers/Modules/ModulesController.php:37
 #: Modules/Admin/Controllers/Permissions/PermissionsController.php:27
 #: Modules/Admin/Controllers/Questions/QuestionDetailsController.php:28
 #: Modules/Admin/Controllers/Questions/QuestionSelectController.php:28
@@ -775,25 +837,29 @@ msgstr "تعديل الموديول"
 #: Modules/Admin/Controllers/SectionsController.php:61
 #: Modules/Admin/Controllers/SectionsController.php:73
 #: Modules/Admin/Controllers/Settings/SliderController.php:38
+#: Modules/Admin/Models/ContentModule/ContentModuleController.php:26
 msgid "Edit"
 msgstr "تعديل"
 
 #: ../storage/framework/messages/0b90a9530a0503a2acd3cdd7a48d9222e72f03c1.php.php:32
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:36
+#: ../storage/framework/messages/11e13b6023501b381978f02c002c6b4d87f633aa.php.php:31
 #: ../storage/framework/messages/1d1cce007a1b4aacf3db4a4f6e566933417ba640.php.php:32
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:40
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:41
 #: ../storage/framework/messages/342121eb205e51dfb39c6529269aacc541af9e45.php.php:37
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:26
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:35
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:28
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:33
+#: ../storage/framework/messages/553689a2b91c263071acddeade7e0d77583eaad4.php.php:30
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:41
-#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:38
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:41
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:68
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:80
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:38
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:115
+#: ../storage/framework/messages/78cc7d82386a0d6fd0e5e2d429fcec399d0b1526.php.php:35
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:130
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:43
-#: ../storage/framework/messages/87d590e5fd7d388af581478bb4bfeeee8bf73fca.php.php:36
+#: ../storage/framework/messages/87d590e5fd7d388af581478bb4bfeeee8bf73fca.php.php:37
 #: ../storage/framework/messages/8e7b39ae6df322b724f109199c464301a9abe768.php.php:46
 #: ../storage/framework/messages/9be442522a9645ace7d64e1a25f1409d3a2a93d5.php.php:28
 #: ../storage/framework/messages/9d940efeac08c5f787ee99e4c34d79cfbfb91fd1.php.php:37
@@ -801,20 +867,24 @@ msgstr "تعديل"
 #: ../storage/framework/messages/b8be6218db637d3a35398e9fdb18d92d245426dc.php.php:26
 #: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:36
 #: ../storage/framework/messages/d9e6ef912afd20317abccbf030bed75ad709f1ea.php.php:36
-#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:37
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:38
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:36
 #: ../storage/framework/messages/f7ade9677f33b3b3f0dc7440d1e204fbc426e23d.php.php:33
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:35
+#: ../storage/framework/messages/f81fbad30c2e13fe3d5651518c05584e543cb5f0.php.php:30
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:33
+#: Modules/Admin/Controllers/ContentModule/ContentModuleController.php:30
+#: Modules/Admin/Controllers/GroupModule/GroupModuleController.php:31
 #: Modules/Admin/Controllers/Help/HelpController.php:36
-#: Modules/Admin/Controllers/Instructions/InstructionsController.php:37
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:38
 #: Modules/Admin/Controllers/LanguageController.php:130
-#: Modules/Admin/Controllers/Login/LoginController.php:36
+#: Modules/Admin/Controllers/Login/LoginController.php:37
 #: Modules/Admin/Controllers/Main/MainController.php:36
 #: Modules/Admin/Controllers/Main/MainGoalsController.php:37
 #: Modules/Admin/Controllers/Main/MainInsturcationController.php:37
-#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:38
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:41
+#: Modules/Admin/Controllers/Modules/HelpModulesController.php:35
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:41
-#: Modules/Admin/Controllers/Modules/ModulesController.php:40
+#: Modules/Admin/Controllers/Modules/ModulesController.php:41
 #: Modules/Admin/Controllers/Permissions/PermissionsController.php:28
 #: Modules/Admin/Controllers/Questions/QuestionDetailsController.php:32
 #: Modules/Admin/Controllers/Questions/QuestionSelectController.php:32
@@ -826,23 +896,31 @@ msgstr "تعديل"
 #: Modules/Admin/Controllers/SectionsController.php:68
 #: Modules/Admin/Controllers/SectionsController.php:80
 #: Modules/Admin/Controllers/Settings/SliderController.php:46
+#: Modules/Admin/Models/ContentModule/ContentModuleController.php:30
 msgid "Delete"
 msgstr "حذف"
 
 #: ../storage/framework/messages/0b90a9530a0503a2acd3cdd7a48d9222e72f03c1.php.php:102
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:148
+#: ../storage/framework/messages/11e13b6023501b381978f02c002c6b4d87f633aa.php.php:102
 #: ../storage/framework/messages/1d1cce007a1b4aacf3db4a4f6e566933417ba640.php.php:103
 #: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:139
+#: ../storage/framework/messages/553689a2b91c263071acddeade7e0d77583eaad4.php.php:121
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:45
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:55
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:136
-#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:141
+#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:142
 #: ../storage/framework/messages/d9379f3dbecafe665d906c6073d17d5671115d0b.php.php:48
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:141
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:120
 #: ../storage/framework/messages/f7ade9677f33b3b3f0dc7440d1e204fbc426e23d.php.php:106
+#: ../storage/framework/messages/f81fbad30c2e13fe3d5651518c05584e543cb5f0.php.php:121
 #: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:139
 #: Modules/Admin/Controllers/AdminController.php:48
-#: Modules/Admin/Controllers/Help/HelpController.php:141
+#: Modules/Admin/Controllers/ContentModule/ContentModuleController.php:121
+#: Modules/Admin/Controllers/GroupModule/GroupModuleController.php:102
+#: Modules/Admin/Controllers/Help/HelpController.php:142
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:141
 #: Modules/Admin/Controllers/LanguageController.php:55
 #: Modules/Admin/Controllers/Questions/QuestionDetailsController.php:103
 #: Modules/Admin/Controllers/Questions/QuestionSelectController.php:102
@@ -851,26 +929,34 @@ msgstr "حذف"
 #: Modules/Admin/Controllers/QuizModule/QuizeModuleController.php:148
 #: Modules/Admin/Controllers/Roles/AdminController.php:106
 #: Modules/Admin/Controllers/Roles/RoleController.php:45
+#: Modules/Admin/Models/ContentModule/ContentModuleController.php:121
 msgid "Added Successfully !"
 msgstr "تم الإضافة بنجاح !"
 
 #: ../storage/framework/messages/0b90a9530a0503a2acd3cdd7a48d9222e72f03c1.php.php:129
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:185
+#: ../storage/framework/messages/11e13b6023501b381978f02c002c6b4d87f633aa.php.php:127
 #: ../storage/framework/messages/1d1cce007a1b4aacf3db4a4f6e566933417ba640.php.php:128
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:176
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:204
+#: ../storage/framework/messages/553689a2b91c263071acddeade7e0d77583eaad4.php.php:164
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:85
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:105
 #: ../storage/framework/messages/8c0d46bd1a276078635070d03dccf2b215770705.php.php:140
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:172
-#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:196
+#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:197
 #: ../storage/framework/messages/d9379f3dbecafe665d906c6073d17d5671115d0b.php.php:85
 #: ../storage/framework/messages/d9379f3dbecafe665d906c6073d17d5671115d0b.php.php:156
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:191
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:157
 #: ../storage/framework/messages/f7ade9677f33b3b3f0dc7440d1e204fbc426e23d.php.php:149
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:176
+#: ../storage/framework/messages/f81fbad30c2e13fe3d5651518c05584e543cb5f0.php.php:164
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:205
 #: Modules/Admin/Controllers/AdminController.php:85
 #: Modules/Admin/Controllers/AdminController.php:156
-#: Modules/Admin/Controllers/Help/HelpController.php:196
+#: Modules/Admin/Controllers/ContentModule/ContentModuleController.php:164
+#: Modules/Admin/Controllers/GroupModule/GroupModuleController.php:127
+#: Modules/Admin/Controllers/Help/HelpController.php:197
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:191
 #: Modules/Admin/Controllers/LanguageController.php:105
 #: Modules/Admin/Controllers/Questions/QuestionDetailsController.php:128
 #: Modules/Admin/Controllers/Questions/QuestionSelectController.php:129
@@ -880,26 +966,34 @@ msgstr "تم الإضافة بنجاح !"
 #: Modules/Admin/Controllers/Roles/AdminController.php:149
 #: Modules/Admin/Controllers/Roles/RoleController.php:85
 #: Modules/Admin/Controllers/Settings/SettingsController.php:140
+#: Modules/Admin/Models/ContentModule/ContentModuleController.php:164
 msgid "Updated Successfully !"
 msgstr "تم التحديث بنجاح !"
 
 #: ../storage/framework/messages/0b90a9530a0503a2acd3cdd7a48d9222e72f03c1.php.php:199
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:256
 #: ../storage/framework/messages/0fb5e5179bd8c1bed17ac50d5412083184c69b1f.php.php:165
+#: ../storage/framework/messages/11e13b6023501b381978f02c002c6b4d87f633aa.php.php:198
 #: ../storage/framework/messages/1d1cce007a1b4aacf3db4a4f6e566933417ba640.php.php:198
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:247
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:275
+#: ../storage/framework/messages/553689a2b91c263071acddeade7e0d77583eaad4.php.php:235
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:100
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:102
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:118
 #: ../storage/framework/messages/7ba78803192ec8f0ba2ac55f3eb104fa48fa08eb.php.php:120
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:243
-#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:267
+#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:268
 #: ../storage/framework/messages/d9379f3dbecafe665d906c6073d17d5671115d0b.php.php:113
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:269
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:228
 #: ../storage/framework/messages/f7ade9677f33b3b3f0dc7440d1e204fbc426e23d.php.php:168
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:247
+#: ../storage/framework/messages/f81fbad30c2e13fe3d5651518c05584e543cb5f0.php.php:235
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:276
 #: Modules/Admin/Controllers/AdminController.php:113
-#: Modules/Admin/Controllers/Help/HelpController.php:267
+#: Modules/Admin/Controllers/ContentModule/ContentModuleController.php:235
+#: Modules/Admin/Controllers/GroupModule/GroupModuleController.php:198
+#: Modules/Admin/Controllers/Help/HelpController.php:268
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:269
 #: Modules/Admin/Controllers/LanguageController.php:118
 #: Modules/Admin/Controllers/LanguageController.php:120
 #: Modules/Admin/Controllers/Pages/PagesController.php:165
@@ -911,10 +1005,12 @@ msgstr "تم التحديث بنجاح !"
 #: Modules/Admin/Controllers/Roles/AdminController.php:168
 #: Modules/Admin/Controllers/Roles/RoleController.php:100
 #: Modules/Admin/Controllers/Roles/RoleController.php:102
+#: Modules/Admin/Models/ContentModule/ContentModuleController.php:235
 msgid "Deleted Successfully !"
 msgstr "تم الحذف بنجاح !"
 
 #: ../storage/framework/messages/0c7c0a5e0619dddd981e5e986f485f781788e064.php.php:5
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:10
 msgid "Create new Main Insturcation"
 msgstr "اضافة تعليمات جديده"
 
@@ -925,7 +1021,7 @@ msgid "Edit Main"
 msgstr "تعديل الرئيسيه"
 
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:10
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:11
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:13
 msgid "create new role"
 msgstr "إنشاء صلاحية جديدة"
 
@@ -933,8 +1029,8 @@ msgstr "إنشاء صلاحية جديدة"
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:74
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:75
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:76
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:88
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:89
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:90
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:91
 msgid "All Roles"
 msgstr "كل الصلاحيات"
 
@@ -943,14 +1039,14 @@ msgstr "كل الصلاحيات"
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:221
 #: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:20
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:31
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:28
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:29
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:32
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:37
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:50
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:28
 #: ../storage/framework/messages/b8be6218db637d3a35398e9fdb18d92d245426dc.php.php:20
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:147
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:33
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:35
 #: ../storage/framework/messages/f34d19d398927274977e7c6582e8605f56ffe07e.php.php:54
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:28
 msgid "ID"
@@ -960,25 +1056,27 @@ msgstr "هوية شخصية"
 #: ../storage/framework/messages/6c0d9b59149ca20fc30a56c45612a07a729f9cca.php.php:30
 #: ../storage/framework/messages/9d7bb14d48544f9fa506e23da1f2a0ce614bb1f6.php.php:34
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:39
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:28
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:34
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:33
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:30
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:36
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:35
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:36
 msgid "Role Name"
 msgstr "اسم الصلاحية"
 
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:37
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:31
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:225
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:35
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:36
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:31
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:41
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:28
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:28
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:30
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:30
 #: ../storage/framework/messages/b8be6218db637d3a35398e9fdb18d92d245426dc.php.php:24
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:149
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:28
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:30
 #: ../storage/framework/messages/f34d19d398927274977e7c6582e8605f56ffe07e.php.php:60
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:29
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:31
 msgid "Created At"
 msgstr "تاريخ الإنشاء"
 
@@ -987,27 +1085,30 @@ msgid "Updated At"
 msgstr "تاريخ التحديث"
 
 #: ../storage/framework/messages/0d38a6941283d6b9ee487d6117731d4efdae3e3d.php.php:39
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:33
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:29
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:29
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:32
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:34
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:32
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:31
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:31
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:54
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:30
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:32
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:34
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:29
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:30
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:30
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:37
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:31
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:32
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:31
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:32
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:32
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:39
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:33
 #: ../storage/framework/messages/f34d19d398927274977e7c6582e8605f56ffe07e.php.php:61
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:32
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:30
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:32
 msgid "Controll"
 msgstr "التحكم"
 
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:75
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:72
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:71
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:44
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:46
 #: Modules/Admin/Controllers/Questions/QuestiontController.php:72
 #: Modules/Admin/Controllers/QuestiontController.php:71
 #: Modules/Admin/Controllers/QuizModule/QuizeModuleController.php:75
@@ -1017,7 +1118,7 @@ msgstr "صح"
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:78
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:72
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:71
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:46
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:48
 #: Modules/Admin/Controllers/Questions/QuestiontController.php:72
 #: Modules/Admin/Controllers/QuestiontController.php:71
 #: Modules/Admin/Controllers/QuizModule/QuizeModuleController.php:78
@@ -1025,12 +1126,12 @@ msgid "False"
 msgstr "خطأ"
 
 #: ../storage/framework/messages/0db7853bc3a30e555738c4d837f3bed14ba22525.php.php:82
-#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:73
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:71
 #: ../storage/framework/messages/b1f3531c4d7d58fd147fdd64c7ace27c526e4200.php.php:80
-#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:70
+#: ../storage/framework/messages/c09d2aee8c6820e7ac8948aca683e7981e6395db.php.php:71
 #: ../storage/framework/messages/eb70305baf91833109fe809a95682f6e1d88c196.php.php:74
-#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:73
-#: Modules/Admin/Controllers/Help/HelpController.php:70
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:71
+#: Modules/Admin/Controllers/Help/HelpController.php:71
 #: Modules/Admin/Controllers/Questions/QuestiontController.php:80
 #: Modules/Admin/Controllers/QuestiontController.php:74
 #: Modules/Admin/Controllers/QuizModule/QuizeModuleController.php:82
@@ -1052,6 +1153,37 @@ msgstr "تم التعديل بنجاح"
 msgid "Not founds"
 msgstr "غير موجود"
 
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:34
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:67
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:30
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:67
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:61
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:61
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:30
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:50
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:30
+msgid "Image Module"
+msgstr "صورة الموديول"
+
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:47
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:65
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:64
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:30
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:61
+msgid "Video"
+msgstr "فيديو"
+
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:61
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:83
+msgid "File"
+msgstr "ملف:"
+
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:113
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:114
+#: ../storage/framework/messages/1032c6092a76ba952aa609475e932917340a0642.php.php:115
+msgid "Add Help Modules"
+msgstr "كل مساعدات الموديول"
+
 #: ../storage/framework/messages/10bff893e15c9a71f56b25f0f9bac6c60beb87b1.php.php:6
 #: ../storage/framework/messages/10bff893e15c9a71f56b25f0f9bac6c60beb87b1.php.php:16
 #: ../storage/framework/messages/10bff893e15c9a71f56b25f0f9bac6c60beb87b1.php.php:33
@@ -1069,7 +1201,6 @@ msgstr "تعديل عضوية المستخدم"
 #: ../storage/framework/messages/3f922f9f8b8efa305abfd980ce5c2d340da39ddc.php.php:253
 #: ../storage/framework/messages/494c0de56003e7fafbf09634ffdeead78200f7a3.php.php:13
 #: ../storage/framework/messages/7cd885b4a99d4520cf8599b0117267ef0ec8c6c3.php.php:9
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:14
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:16
 #: ../storage/framework/messages/92e5628d0f619e64228402283e62e7b0f1c26f6c.php.php:21
 #: ../storage/framework/messages/97e30d56f374945667463b27f87c5481570a9e3c.php.php:12
@@ -1102,7 +1233,7 @@ msgstr "اسم المجموعة"
 #: ../storage/framework/messages/15e4eea4c0fa1d2e01687162fc5d2357ca8913d6.php.php:29
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:52
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:32
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:35
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:37
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:30
 msgid "created_at"
 msgstr "تاريخ الإنشاء"
@@ -1110,7 +1241,7 @@ msgstr "تاريخ الإنشاء"
 #: ../storage/framework/messages/15e4eea4c0fa1d2e01687162fc5d2357ca8913d6.php.php:30
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:53
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:33
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:36
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:38
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:31
 msgid "updated_at"
 msgstr "تاريخ التحديث"
@@ -1119,12 +1250,14 @@ msgstr "تاريخ التحديث"
 #: ../storage/framework/messages/401f9eef9f67cfe05d3cfdc96789e7164baa3cdc.php.php:27
 #: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:24
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:36
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:33
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:33
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:33
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:34
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:32
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:34
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:34
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:23
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:33
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:33
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:34
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:32
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:32
 msgid "Options"
 msgstr "الخيارات"
 
@@ -1159,19 +1292,32 @@ msgstr "اعرف المزيد عن خدماتنا"
 
 #: ../storage/framework/messages/1c1bc1545f8daa677c8f9f910e01a7d2742ca728.php.php:32
 #: ../storage/framework/messages/1c1bc1545f8daa677c8f9f910e01a7d2742ca728.php.php:52
-#: ../storage/framework/messages/ab61704f72bf3574b1ea34b722f90ab7b289a02c.php.php:62
+#: ../storage/framework/messages/ab61704f72bf3574b1ea34b722f90ab7b289a02c.php.php:53
 #: Modules/Portal/Controllers/ContactController.php:32
 #: Modules/Portal/Controllers/ContactController.php:52
-#: Modules/Portal/Controllers/QuizController.php:62
+#: Modules/Portal/Controllers/QuizController.php:53
 msgid "Error occured, please try again later"
 msgstr "عذرا ، لقد حدث خطأ ، يرجى المحاولة مرة أخرى!"
 
 #: ../storage/framework/messages/1c1bc1545f8daa677c8f9f910e01a7d2742ca728.php.php:50
-#: ../storage/framework/messages/ab61704f72bf3574b1ea34b722f90ab7b289a02c.php.php:60
+#: ../storage/framework/messages/ab61704f72bf3574b1ea34b722f90ab7b289a02c.php.php:51
 #: Modules/Portal/Controllers/ContactController.php:50
-#: Modules/Portal/Controllers/QuizController.php:60
+#: Modules/Portal/Controllers/QuizController.php:51
 msgid "Your request is sent successfully !"
 msgstr "تم ارسال رسالتك بنجاح"
+
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:14
+msgid " Goals Modules"
+msgstr "أهداف الموديول"
+
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:118
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:119
+msgid "Edit  Goals Modules"
+msgstr "تعديل  هدف الموديول"
+
+#: ../storage/framework/messages/1c9aa088bb119fad98bfe004b699c40271e40614.php.php:120
+msgid "Edit Goals Modules"
+msgstr "تعديل  هدف الموديول"
 
 #: ../storage/framework/messages/1fd288a433c66c9dcb4728011f18ea3262b935a4.php.php:19
 #: ../storage/framework/messages/b431880f9f4bb394feb1599ce4d7d9650d8b3bf9.php.php:20
@@ -1253,52 +1399,68 @@ msgstr "خبراء في مجال طب الاسنان"
 msgid "Get to know Aaji's medical team"
 msgstr "تعرّف على الفريق الطبي بعاجي"
 
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:77
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:78
-#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:79
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:99
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:100
+#: ../storage/framework/messages/244e6ea8101641c165f9cfa14a34e8fae18fe58d.php.php:101
 msgid "Add Modules"
 msgstr "كل الموديولات"
 
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:68
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:69
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:69
-#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:78
-#: Modules/Admin/Controllers/Instructions/InstructionsController.php:78
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:69
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:71
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:71
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:69
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:69
-#: Modules/Admin/Controllers/Modules/ModulesController.php:68
+#: Modules/Admin/Controllers/Modules/ModulesController.php:69
 msgid "Disabled"
 msgstr "عدم التمكين"
 
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:70
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:71
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:71
-#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:80
-#: Modules/Admin/Controllers/Instructions/InstructionsController.php:80
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:71
+#: ../storage/framework/messages/e5423cf98dcafad66324067dd280c5b5226946a6.php.php:73
+#: Modules/Admin/Controllers/Instructions/InstructionsController.php:73
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:71
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:71
-#: Modules/Admin/Controllers/Modules/ModulesController.php:70
+#: Modules/Admin/Controllers/Modules/ModulesController.php:71
 msgid "Enabled"
 msgstr "تمكين"
 
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:110
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:113
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:135
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:135
+#: ../storage/framework/messages/78cc7d82386a0d6fd0e5e2d429fcec399d0b1526.php.php:132
 #: ../storage/framework/messages/d0c522a3afd11be92894d5500845186a83c6b943.php.php:33
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:135
+#: Modules/Admin/Controllers/Modules/HelpModulesController.php:132
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:135
-#: Modules/Admin/Controllers/Modules/ModulesController.php:110
+#: Modules/Admin/Controllers/Modules/ModulesController.php:113
 #: Modules/Portal/Controllers/LoginController.php:33
 msgid "site.added_successfully"
 msgstr "تم الإضافة بنجاح"
 
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:143
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:149
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:189
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:189
+#: ../storage/framework/messages/78cc7d82386a0d6fd0e5e2d429fcec399d0b1526.php.php:220
 #: ../storage/framework/messages/d0c522a3afd11be92894d5500845186a83c6b943.php.php:62
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:189
+#: Modules/Admin/Controllers/Modules/HelpModulesController.php:220
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:189
-#: Modules/Admin/Controllers/Modules/ModulesController.php:143
+#: Modules/Admin/Controllers/Modules/ModulesController.php:149
 #: Modules/Portal/Controllers/LoginController.php:62
 msgid "site.updated_successfully"
 msgstr "تم التعديل بنجاح"
 
-#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:184
+#: ../storage/framework/messages/2683fac295ccb1c8a8be3d9b200d42eaf17023a7.php.php:190
 #: ../storage/framework/messages/61bd97ca02076afd45f43ac6386e5b8bcf8021fe.php.php:229
+#: ../storage/framework/messages/659bafe7113f9b925fed29388115f25ea673944e.php.php:230
+#: ../storage/framework/messages/78cc7d82386a0d6fd0e5e2d429fcec399d0b1526.php.php:230
+#: Modules/Admin/Controllers/Modules/GoalsModulesController.php:230
+#: Modules/Admin/Controllers/Modules/HelpModulesController.php:230
 #: Modules/Admin/Controllers/Modules/InteroductionModulesController.php:229
-#: Modules/Admin/Controllers/Modules/ModulesController.php:184
+#: Modules/Admin/Controllers/Modules/ModulesController.php:190
 msgid "site.deleted_successfully"
 msgstr "تم الحذف بنجاح"
 
@@ -1376,6 +1538,10 @@ msgstr "تم استئناف الاشتراك"
 msgid "This Feature Is Coming Soon"
 msgstr "هذه الخاصية قادمة قريبا"
 
+#: ../storage/framework/messages/282b763f50d17463d5344bfae11482203b8fe2c7.php.php:39
+msgid "Upload file"
+msgstr "رفع الملفات"
+
 #: ../storage/framework/messages/288eec061c55b46478adddfb6c805958ba821326.php.php:23
 #: ../storage/framework/messages/288eec061c55b46478adddfb6c805958ba821326.php.php:25
 #: ../storage/framework/messages/4a80017b8408dc5a6c7332fe1bffb50deeb8bb19.php.php:16
@@ -1423,13 +1589,15 @@ msgid "Month"
 msgstr "الشهر"
 
 #: ../storage/framework/messages/2a221dada5a0d9aba07fe37876e499fd8d9e49ef.php.php:114
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:75
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:69
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:31
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:69
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:70
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:71
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:63
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:32
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:91
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:31
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:112
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:29
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:76
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:31
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:63
 msgid "Status"
 msgstr "الحالة"
 
@@ -1449,9 +1617,9 @@ msgstr "غير نشط"
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:69
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:49
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:83
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:40
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:42
 #: ../storage/framework/messages/ccad65e35d815389ec8c0bc65251f656dd310d01.php.php:128
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:46
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:48
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:53
 #: Modules/Admin/Controllers/Roles/RoleController.php:23
 msgid "Permissions"
@@ -1468,23 +1636,68 @@ msgstr "المجموعات"
 msgid "Add User Membership"
 msgstr "اضافة مستخدم للعضوية"
 
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:12
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:11
+msgid "create new Help Modules "
+msgstr "إنشاء مساعدة موديول  جديد"
+
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:19
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:238
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:239
+msgid "All Help Modules"
+msgstr "كل مساعدات  الموديولات"
+
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:65
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:31
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:29
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:31
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:31
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:65
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:64
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:64
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:65
+#: ../storage/framework/messages/b675f4c99e554a2ebe3342cc614eeea36ced7e68.php.php:9
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:31
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:29
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:65
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:64
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:65
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:65
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:66
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:29
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:65
+msgid "title"
+msgstr "العنوان"
+
+#: ../storage/framework/messages/2dbacb830b2ca83ace405584ef786803d52df7f5.php.php:203
+#: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:232
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:230
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:118
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:230
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:230
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:203
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:198
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:198
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:202
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:587
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:230
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:228
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:199
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:198
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:202
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:202
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:204
+#: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:144
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:203
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:133
+msgid "Translated Successfully"
+msgstr "تمت الترجمة بنجاح"
+
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:14
 msgid " Interoduction Modules"
 msgstr "مقدمة  الموديول"
 
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:53
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:47
-msgid "Select Module"
-msgstr "أختر الموديول"
-
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:65
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:59
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:28
-msgid "Image Module"
-msgstr "صورة الموديول"
-
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:116
-#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:117
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:118
+#: ../storage/framework/messages/2fc33de062332c94189f53cab1b399091e0bfce4.php.php:119
 msgid "Edit  Interoduction Modules"
 msgstr "تعديل مقدمة الموديول"
 
@@ -1517,18 +1730,17 @@ msgstr "شركة الشحن "
 
 #: ../storage/framework/messages/350aa7eb57ff9fe65bd3d9887fc2d1ddcf794120.php.php:38
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:15
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:232
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:239
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:160
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:250
-#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:141
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:605
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:606
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:252
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:259
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:161
+#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:107
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:607
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:608
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:609
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:190
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:191
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:611
 #: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:192
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:193
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:194
 msgid "Settings"
 msgstr "الإعدادات"
 
@@ -1536,10 +1748,10 @@ msgstr "الإعدادات"
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:17
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:20
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:118
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:12
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:20
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:24
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:161
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:14
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:22
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:26
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:163
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:19
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:121
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:7
@@ -1551,13 +1763,13 @@ msgstr "تغيير كلمة المرور"
 
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:24
 #: ../storage/framework/messages/3b27699c1fed4e621160cb3a28d88748252c7f14.php.php:27
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:35
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:39
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:37
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:41
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:57
 #: ../storage/framework/messages/5ead309cc43700fd0323b3cece5f38fe5a9c9a5b.php.php:59
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:23
 #: ../storage/framework/messages/6c1c0ebe0f12b776097a70becfffc3d145d854e0.php.php:25
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:57
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:59
 #: ../storage/framework/messages/8eedec27ce7147fb5437d911f9e5263e2ccf7fc8.php.php:67
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:24
 #: ../storage/framework/messages/b6e56133bdf4ec1762dbb5f99393e2ec7e8820ce.php.php:27
@@ -1638,18 +1850,18 @@ msgid "Styles"
 msgstr "الأشكال"
 
 #: ../storage/framework/messages/401f9eef9f67cfe05d3cfdc96789e7164baa3cdc.php.php:23
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:27
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:55
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:28
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:57
 #: ../storage/framework/messages/4806713ddb58c385fb636470a62b0c821e1ad9fe.php.php:32
 #: ../storage/framework/messages/5127a32c17c99c200cee52607a01ca77cf087a5a.php.php:26
 #: ../storage/framework/messages/578d8f9e742c6970987ef15d79697e6ee3ec1e81.php.php:19
 #: ../storage/framework/messages/5ead309cc43700fd0323b3cece5f38fe5a9c9a5b.php.php:12
 #: ../storage/framework/messages/701a8bf4f5d0022c58be7116c5a6b532fd1a1440.php.php:33
 #: ../storage/framework/messages/82965df2b117ce30b7f1cb50051b84263f741f2d.php.php:38
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:29
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:30
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:31
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:32
 #: ../storage/framework/messages/9ea58e30748a06e28550a1d457e3fed180edd938.php.php:38
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:69
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:71
 #: ../storage/framework/messages/a85416c3c1eb82443d9cfcdf2b614a1922ec5f5b.php.php:39
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:21
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:45
@@ -1689,68 +1901,68 @@ msgstr "تم التحديث بنجاح"
 
 #: ../storage/framework/messages/401f9eef9f67cfe05d3cfdc96789e7164baa3cdc.php.php:138
 #: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:164
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:142
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:143
 msgid "Deleted Successfully"
 msgstr "تم الحذف بنجاح"
 
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:12
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:140
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:13
 #: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:141
 #: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:142
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:144
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:143
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:145
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:82
 #: ../storage/framework/messages/c2969c56f38f9371060b1b7c5ea1241f0b5fab2f.php.php:53
 msgid "Contacts"
 msgstr "الرسائل"
 
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:29
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:73
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:77
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:30
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:75
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:79
 #: Modules/Admin/views/admin/contacts/show.blade.php:72
 msgid "Phone"
 msgstr "الهاتف الإضافي"
 
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:31
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:32
 msgid "option"
 msgstr "حدد الاختيار"
 
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:44
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:45
 msgid "Message Content"
 msgstr "نص الرسالة"
 
-#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:54
+#: ../storage/framework/messages/4105963d60a0a97cb61d06d3375169d9678a7aff.php.php:55
 #: ../storage/framework/messages/5bc9d2d4e610ff877abe27140456c48946a35ac3.php.php:110
 msgid "close"
 msgstr "إغلاق"
 
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:2
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:7
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:4
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:9
 msgid "Show Message"
 msgstr "اظهار رسالتك"
 
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:43
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:45
 msgid "Add Content"
 msgstr "إضافة محتوي"
 
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:81
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:81
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:85
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:83
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:83
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:87
 #: Modules/Admin/views/admin/contacts/show.blade.php:80
 msgid "Subject"
 msgstr "الموضوع"
 
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:89
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:91
 #: Modules/Admin/views/admin/contacts/show.blade.php:88
 msgid "Message"
 msgstr "نص الرسالة"
 
-#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:99
+#: ../storage/framework/messages/41d124f8ad9dcf37adaa04db9b30e43c1f90187e.php.php:101
 msgid "Back"
 msgstr "رجوع"
 
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:108
-#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:109
 #: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:110
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:111
+#: ../storage/framework/messages/42b4b849e385a6efa1aa02544d136e695be3e787.php.php:112
 msgid "Add Interoduction Modules"
 msgstr "أنشاء مقدمة موديول جديده "
 
@@ -1764,12 +1976,14 @@ msgid "Permission"
 msgstr "الصلاحيات"
 
 #: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:22
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:32
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:32
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:32
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:33
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:31
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:33
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:33
 #: ../storage/framework/messages/ac49a1418db87afdd2eb402369be252a8b8f9ff8.php.php:22
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:32
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:32
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:33
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:31
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:31
 msgid "Created at"
 msgstr "تاريخ الانشاء"
 
@@ -1777,34 +1991,8 @@ msgstr "تاريخ الانشاء"
 msgid "Updated at"
 msgstr "تاريخ التحديث"
 
-#: ../storage/framework/messages/438ad6600fd7a48fa034800ec48108cbed8753a4.php.php:232
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:117
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:229
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:229
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:229
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:196
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:196
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:200
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:585
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:229
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:196
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:200
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:200
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:202
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:229
-#: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:144
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:201
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:119
-msgid "Translated Successfully"
-msgstr "تمت الترجمة بنجاح"
-
-#: ../storage/framework/messages/44bca37e1168caecf6fe1d1bb4c9c361bf13f446.php.php:5
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:9
-msgid "Create new Insturctions"
-msgstr "اضافة تعليمات جديده"
-
 #: ../storage/framework/messages/458d5d4b186474be26c280fb025b39087fbfc4ed.php.php:5
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:9
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:10
 msgid "Create new Login"
 msgstr "إضافة تسجيل دخول  جديدة"
 
@@ -1812,32 +2000,69 @@ msgstr "إضافة تسجيل دخول  جديدة"
 msgid "Edit Login"
 msgstr "تعديل تسجيل الدخول"
 
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:99
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:101
 msgid "Phone No."
 msgstr "رقم الهاتف"
 
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:112
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:114
 msgid "Mail Address"
 msgstr "البريد الإلكتروني"
 
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:175
-#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:135
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:177
+#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:101
 msgid "Edit Profile"
 msgstr "تعديل الملف الشخصي"
 
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:176
-#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:177
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:5
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:16
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:178
+#: ../storage/framework/messages/45c86994421d524103d2ef25724b8fae7c779b94.php.php:179
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:7
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:18
 msgid "Profile"
 msgstr "الملف الشخصي"
+
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:18
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:246
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:247
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:248
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:250
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:127
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:16
+#: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:27
+msgid "Main Insturcation"
+msgstr "التعليمات الرئيسيه"
+
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:103
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:103
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:103
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:103
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:101
+msgid "Saved successfully"
+msgstr "تم الحفظ بنجاح"
+
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:132
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:132
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:132
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:132
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:130
+msgid "Updated successfully"
+msgstr "تم التحديث بنجاح"
+
+#: ../storage/framework/messages/48ec00b03f2f90953f4c02f2a917a8f133f3d18a.php.php:161
+#: ../storage/framework/messages/61af27d96dc41c3c0b4bf168626cda748f4b4553.php.php:66
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:161
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:161
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:161
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:159
+#: Modules/Admin/Controllers/Contact/ContactsController.php:66
+msgid "Deleted successfully"
+msgstr "تم الحذف بنجاح"
 
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:14
 msgid "View Profile"
 msgstr "عرض الملف الشخصي"
 
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:17
-#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:148
+#: ../storage/framework/messages/76d990ba6008c65078f16a8d83d036d15f2e68e0.php.php:114
 #: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:51
 msgid "Logout"
 msgstr "خروج"
@@ -1855,46 +2080,40 @@ msgid "General"
 msgstr ""
 
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:97
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:17
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:246
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:18
 #: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:247
 #: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:248
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:250
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:5
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:26
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:63
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:249
+#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:251
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:7
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:28
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:65
 #: ../storage/framework/messages/b675f4c99e554a2ebe3342cc614eeea36ced7e68.php.php:79
 msgid "Login"
 msgstr "دخول"
 
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:107
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:17
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:246
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:18
 #: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:247
 #: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:248
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:250
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:249
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:251
 msgid "Main"
 msgstr "الرئيسية"
 
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:117
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:17
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:246
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:18
 #: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:247
 #: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:248
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:250
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:16
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:249
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:251
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:14
 #: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:26
 msgid "Main Goals"
 msgstr "الاهداف الرئيسيه"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:127
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:18
-#: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:27
-msgid "Main Insturcation"
-msgstr "التعليمات الرئيسيه"
-
 #: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:137
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:12
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:14
 #: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:44
 #: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:28
 msgid "Help"
@@ -1913,35 +2132,44 @@ msgstr "تفاصيل الاختبارات"
 msgid "Question Select"
 msgstr "اختيار الاسئله"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:186
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:196
 msgid "Interoduction Modules"
 msgstr "مقدمة الموديول"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:196
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:206
 msgid "Goal Modules"
 msgstr "أهداف الموديول"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:206
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:17
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:246
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:247
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:248
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:250
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:216
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:16
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:245
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:246
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:247
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:249
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:16
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:67
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:68
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:69
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:71
 msgid "Insturctions"
 msgstr "التعليمات"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:216
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:226
+msgid "Content Modules"
+msgstr "محتويات الموديول"
+
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:236
 msgid "ActivityModules"
 msgstr "انشطة الموديول "
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:226
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:246
 #: ../storage/framework/messages/c5fa87691e13cbe4ecf533d87302fa6aa12e386e.php.php:14
 msgid "QuizModule"
 msgstr "أختبارات الموديول"
 
-#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:248
+#: ../storage/framework/messages/48f74b5ffdcfbaa7e9a92e9b60a130075110570f.php.php:268
 #: ../storage/framework/messages/494c0de56003e7fafbf09634ffdeead78200f7a3.php.php:39
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:71
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:73
 msgid "Pages"
 msgstr "الصفحات"
 
@@ -1973,13 +2201,18 @@ msgstr "هل يمكننا مساعدتك"
 msgid "Technical Support Number"
 msgstr "رقم الدعم الفني"
 
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:109
-#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:110
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:17
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:235
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:236
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:111
+#: ../storage/framework/messages/4cda8138f7a22733d76c59720d4f0ea978a40f12.php.php:112
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:19
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:237
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:238
 msgid "All QuizModule"
 msgstr "كل أختبارات الموديول"
+
+#: ../storage/framework/messages/4d656bd8b76cbabd011a9f5040c753caf20f3a14.php.php:29
+#: Modules/Admin/Controllers/ActivityModules/ActivityModulesController.php:29
+msgid "View"
+msgstr "عرض"
 
 #: ../storage/framework/messages/5127a32c17c99c200cee52607a01ca77cf087a5a.php.php:5
 #: ../storage/framework/messages/a85416c3c1eb82443d9cfcdf2b614a1922ec5f5b.php.php:5
@@ -2002,6 +2235,33 @@ msgstr "مدونات عاجي"
 #: ../storage/framework/messages/51a90798d35662181455ff88330bed2cd67794d1.php.php:19
 msgid "More Blogs"
 msgstr "المزيد من المقالات"
+
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:9
+msgid "create new Group Module "
+msgstr "إنشاء  مجموعة موديول  جديد"
+
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:16
+msgid "group_module"
+msgstr ""
+
+#: ../storage/framework/messages/53ac30ad83e9d72e4063014ac8131fa83a4a6a54.php.php:30
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:30
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:30
+msgid "Image Insturctions"
+msgstr " صورة التعليمات"
+
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:33
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:33
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:33
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:29
+msgid "Goal"
+msgstr "الاهداف"
+
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:91
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:92
+#: ../storage/framework/messages/5437085001aef32e36baea050e2983d59009b5fb.php.php:93
+msgid "Edit Group Module"
+msgstr "تعديل  مجموعة  الموديول"
 
 #: ../storage/framework/messages/57006343024f55cd377b2af966cac020aad6487f.php.php:11
 #: ../storage/framework/messages/c6ad9123a4e27f77c51cd2abf63e96e3de9f3fe7.php.php:42
@@ -2052,9 +2312,20 @@ msgstr "وصف الفوتر"
 msgid "Working time"
 msgstr "وقت العمل"
 
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:91
-#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:92
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:87
+#: ../storage/framework/messages/5867c788cd3b0d23eb13ddad2d6ca8136eefa9b3.php.php:88
+msgid "All Insturctions"
+msgstr "التعليمات"
+
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:110
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:111
+#: ../storage/framework/messages/597701cab55e7ce3cbddfd81306a51665a56d6d8.php.php:112
+msgid "Add Goals Modules"
+msgstr "تعديل  هدف الموديول"
+
 #: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:93
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:94
+#: ../storage/framework/messages/5b21d2373a1c3183e07deb124a77d2e452446750.php.php:95
 msgid "Add Help"
 msgstr "إضافة مساعده"
 
@@ -2128,22 +2399,32 @@ msgstr "تم تغيير حالة الطلب بنجاح ! "
 msgid "An Error Occurred, please try again"
 msgstr "عذرا ، لقد حدث خطأ ، يرجى المحاولة مرة أخرى!"
 
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:8
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:14
+msgid "Content Module"
+msgstr "محتوى الموديول"
+
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:95
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:96
+#: ../storage/framework/messages/5cdf444d9cfc5ac10c290ad9a0e1471acf6def80.php.php:97
+msgid "Edit Content Module"
+msgstr "تعديل المحتوي"
+
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:9
 msgid "create new Slider"
 msgstr "إنشاء سلايدر جديد"
 
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:16
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:17
 msgid "All Sliders"
 msgstr "كل السلايدر"
 
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:32
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:33
 msgid "Create Time"
 msgstr "تاريخ الإنشاء"
 
-#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:156
 #: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:157
 #: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:158
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:95
+#: ../storage/framework/messages/5d25839e5e83b1b165c0ccf78809f13d9b4c1496.php.php:159
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:97
 msgid "Sliders"
 msgstr "السلايدر"
 
@@ -2153,61 +2434,12 @@ msgstr "السلايدر"
 msgid "Edit Customer"
 msgstr "تعديل العميل"
 
-#: ../storage/framework/messages/61af27d96dc41c3c0b4bf168626cda748f4b4553.php.php:66
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:160
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:160
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:160
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:160
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:160
-#: Modules/Admin/Controllers/Contact/ContactsController.php:66
-msgid "Deleted successfully"
-msgstr "تم الحذف بنجاح"
-
 #: ../storage/framework/messages/61af27d96dc41c3c0b4bf168626cda748f4b4553.php.php:98
 #: Modules/Admin/Controllers/Contact/ContactsController.php:98
 msgid "Reply sent successfully"
 msgstr "تم ارسال الرد بنجاح"
 
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:30
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:30
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:30
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:62
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:62
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:63
-#: ../storage/framework/messages/b675f4c99e554a2ebe3342cc614eeea36ced7e68.php.php:9
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:30
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:62
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:63
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:63
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:64
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:30
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:63
-msgid "title"
-msgstr "العنوان"
-
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:31
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:31
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:31
-msgid "Image "
-msgstr "صورة "
-
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:102
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:102
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:102
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:102
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:102
-msgid "Saved successfully"
-msgstr "تم الحفظ بنجاح"
-
-#: ../storage/framework/messages/6282b42f810dee8dc2dbbe7c51c0f872087641cb.php.php:131
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:131
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:131
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:131
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:131
-msgid "Updated successfully"
-msgstr "تم التحديث بنجاح"
-
-#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:9
+#: ../storage/framework/messages/666ce4ae98177d3835134ea32ec34ae3d734f105.php.php:10
 #: ../storage/framework/messages/c87b7b16f61ac64596fdd643b6a88405c09ee626.php.php:5
 msgid "Create new Main Goals"
 msgstr "إنشاء هدف رئيسي جديد"
@@ -2295,8 +2527,8 @@ msgstr "غير منشور"
 #: ../storage/framework/messages/692397887deba00a3a906d8a97497c09cc7b5622.php.php:93
 #: ../storage/framework/messages/8e7b39ae6df322b724f109199c464301a9abe768.php.php:58
 #: ../storage/framework/messages/9be442522a9645ace7d64e1a25f1409d3a2a93d5.php.php:38
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:103
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:104
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:105
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:106
 #: Modules/Admin/Controllers/Permissions/PermissionsController.php:38
 #: Modules/Admin/Controllers/SectionsController.php:93
 #: Modules/Admin/Controllers/Settings/SliderController.php:58
@@ -2306,8 +2538,8 @@ msgstr "الترجمة"
 #: ../storage/framework/messages/6c0d9b59149ca20fc30a56c45612a07a729f9cca.php.php:25
 #: ../storage/framework/messages/9d7bb14d48544f9fa506e23da1f2a0ce614bb1f6.php.php:30
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:34
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:23
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:29
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:25
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:31
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:29
 msgid ""
 "Please select language to change Permissions name according to language "
@@ -2315,10 +2547,10 @@ msgid ""
 msgstr "الرجاء تحديد اللغة لتغيير اسم الأذونات وفقًا للغة المحددة"
 
 #: ../storage/framework/messages/6c0d9b59149ca20fc30a56c45612a07a729f9cca.php.php:63
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:62
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:74
-#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:75
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:64
 #: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:76
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:77
+#: ../storage/framework/messages/c830b77dd21f3acce0306bdf0d8e78839149cfef.php.php:78
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:86
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:130
 #: ../storage/framework/messages/f5471a0755faf4c418bf26f0c96eb07e6ae76e34.php.php:131
@@ -2443,11 +2675,11 @@ msgstr "نوع الخط"
 msgid "fontawesome"
 msgstr "الايقونه"
 
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:93
-#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:94
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:17
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:235
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:236
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:115
+#: ../storage/framework/messages/6e86ef9c10ba3e049b61426fd9aa999bb2de9d18.php.php:116
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:19
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:237
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:238
 msgid "All ActivityModule"
 msgstr "كل انشطة الموديول"
 
@@ -2460,8 +2692,8 @@ msgid "Specialist doctor at your service"
 msgstr "طبيب متخصص في خدمتك"
 
 #: ../storage/framework/messages/6ede799e7636ca88518305afca74f658c0fe2f8e.php.php:61
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:175
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:177
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:179
 msgid "Years of Experience"
 msgstr "سنوات الخبرة"
 
@@ -2478,26 +2710,21 @@ msgstr "إنشاء مستخدم جديد"
 msgid "All Admins"
 msgstr "كل الادمن"
 
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:101
-#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:102
 #: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:103
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:104
+#: ../storage/framework/messages/7140caa8f26134147bae7ac52f8d47d6bc873850.php.php:105
 msgid "Edit Help"
 msgstr "تعديل المساعده"
 
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:9
-msgid "Create new GoalsModules"
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:11
+msgid "create new Goals Modules "
 msgstr "إنشاء هدف   جديد"
 
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:17
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:246
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:247
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:248
-msgid "GoalsModules"
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:19
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:238
+#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:239
+msgid "All Goals Modules"
 msgstr "أهداف الموديول"
-
-#: ../storage/framework/messages/72cea1cfd7a2dc47abdbeeb722148db9d1bf4b1f.php.php:31
-msgid "Image Goal Module"
-msgstr "صورة الموديول"
 
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:94
 #: ../storage/framework/messages/77e7d9669ddcc7070c269f921d5b91ee9deb8333.php.php:96
@@ -2528,12 +2755,12 @@ msgstr "غير موجود"
 msgid "Control In All "
 msgstr "التحكم في الجميع"
 
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:16
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:18
 #: ../storage/framework/messages/b675f4c99e554a2ebe3342cc614eeea36ced7e68.php.php:117
 msgid "login"
 msgstr "دخول"
 
-#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:58
+#: ../storage/framework/messages/7d8b5d570236f59795f88bf569d18acabdc8a31d.php.php:60
 msgid " Confirm Password"
 msgstr "تأكيد كلمة المرور"
 
@@ -2551,41 +2778,69 @@ msgstr "انشاء ادمن جديد"
 msgid "All Admin"
 msgstr "كل الادمن"
 
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:33
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:35
 msgid "LastName"
 msgstr "الاسم الأخير"
 
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:34
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:36
 msgid "LasteName"
 msgstr "الاسم الأخير"
 
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:41
-#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:42
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:43
+#: ../storage/framework/messages/83556bab5912b7e6ecbe46df96c0ac0b51c88946.php.php:44
 msgid "MyPhone"
 msgstr "الهاتف "
 
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:9
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:11
 msgid "create new Questions Select "
 msgstr "إنشاء أختيار جديد"
 
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:17
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:231
-#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:232
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:19
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:233
+#: ../storage/framework/messages/84974cb29df99f7fd252fce16292d3c848505b12.php.php:234
 msgid "All Questions Select"
 msgstr "كل الاختبارات"
 
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:21
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:37
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:19
+#: ../storage/framework/messages/8641b208eec5ee7d9452075050994170b6beb121.php.php:132
+msgid "Choose Group"
+msgstr "اختر مجموعه"
+
+#: ../storage/framework/messages/8641b208eec5ee7d9452075050994170b6beb121.php.php:139
+msgid "Group Two"
+msgstr "المجموعة الثانيه"
+
+#: ../storage/framework/messages/8641b208eec5ee7d9452075050994170b6beb121.php.php:142
+msgid "Group One"
+msgstr "المجموعة الأولى "
+
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:9
+#: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:53
+msgid "Smart Agent"
+msgstr "الوكيل الذكى"
+
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:19
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:35
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:21
 msgid "Befor Quiz"
 msgstr "الاختبار القبلى"
 
-#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:22
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:17
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:231
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:232
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:20
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:36
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:19
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:233
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:234
 msgid "All Modules"
 msgstr "كل الموديولات"
+
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:32
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:41
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:19
+msgid "After Quiz"
+msgstr "الاختبار البعدى"
+
+#: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:38
+msgid "Please login to view modules"
+msgstr "يرجى تسجيل الدخول اولا"
 
 #: ../storage/framework/messages/86ec1636ac5fc53b59e95f7363d0afe131c35c42.php.php:49
 msgid "contacts"
@@ -2599,13 +2854,13 @@ msgstr "الملف الشخصي"
 msgid "get_started"
 msgstr "أبدا"
 
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:9
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:11
 msgid "create new Questions Details "
 msgstr "إنشاءتفاصيل جديده"
 
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:17
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:231
-#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:232
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:19
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:233
+#: ../storage/framework/messages/8773bff4bb4edbaf556a65368b54345bad642713.php.php:234
 msgid "All Questions Details"
 msgstr "كل تفاصيل الاختبارات"
 
@@ -2624,12 +2879,22 @@ msgstr "العملات"
 msgid "Categories"
 msgstr "الأقسام"
 
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:14
+msgid "Insturcation"
+msgstr "التعليمات"
+
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:91
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:92
+#: ../storage/framework/messages/89066c6cb6859dcc6c84ed6ae2cc51ec75955839.php.php:93
+msgid "Edit Insturcation"
+msgstr " تعديل التعليمات "
+
 #: ../storage/framework/messages/8a203b6812628024c2e467c2384056b7d8f20b48.php.php:8
 msgid "Who Are We"
 msgstr "من نحن"
 
 #: ../storage/framework/messages/8a203b6812628024c2e467c2384056b7d8f20b48.php.php:17
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:55
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:57
 msgid "Working Hours"
 msgstr "ساعات العمل"
 
@@ -2698,7 +2963,7 @@ msgstr "إنشاء صلاحية جديدة"
 
 #: ../storage/framework/messages/8f62f0464fc8b7ff4f0ed7e24a2bd6e148c00c7e.php.php:38
 #: ../storage/framework/messages/b79c6a535da4a9c85fc100634b66b8ee06bb1d00.php.php:16
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:21
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:23
 #: ../storage/framework/messages/f8136bfa9754062106b5b5cd81a05f04dceabd66.php.php:16
 msgid "Permission List"
 msgstr "قائمة الصلاحيات"
@@ -2731,13 +2996,13 @@ msgstr "الخدمات"
 msgid "file"
 msgstr "ملف:"
 
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:9
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:11
 msgid "create new QuizModule "
 msgstr "إنشاء  أختبار موديول  جديد"
 
-#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:29
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:29
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:29
+#: ../storage/framework/messages/99679079f96768de648cb8b0c0dce10ede4be14b.php.php:31
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:31
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:31
 msgid "published"
 msgstr "نشر"
 
@@ -2745,9 +3010,9 @@ msgstr "نشر"
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:145
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:146
 #: ../storage/framework/messages/a9954de724020339df216f4dc0b4fb1aad38f695.php.php:147
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:105
-#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:106
 #: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:107
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:108
+#: ../storage/framework/messages/ee1a2b58aa20579533ea020f73d967f8baf17afa.php.php:109
 msgid "Edit Role"
 msgstr "تعديل الصلاحية"
 
@@ -2765,26 +3030,18 @@ msgstr "من فضلك ادخل العنوان"
 msgid "Place Enter Name"
 msgstr "ادخل الاسم"
 
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:11
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:23
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:13
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:25
 #: ../storage/framework/messages/a3185e5e7b895df0cdfdd54c99c10ed958a06017.php.php:29
 msgid "Contact Us"
 msgstr "تواصل معنا"
 
-#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:89
+#: ../storage/framework/messages/a290c402d6a03a6309d8f7de7f3398cda7607ef5.php.php:91
 msgid "Send Message"
 msgstr "أرسال رسالتك"
 
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:5
-msgid "Create new Modules"
-msgstr "إنشاء موديول  جديد"
-
-#: ../storage/framework/messages/a4e658e53ee49141839d537440106bfeec812693.php.php:57
-msgid "Edit Goals Modules"
-msgstr "تعديل  هدف الموديول"
-
 #: ../storage/framework/messages/a4fc547b6876b4068758773680f73191fae0c1ad.php.php:5
-#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:9
+#: ../storage/framework/messages/b8cef9d9810745833cc0e4e15b019fd6f7c9bed9.php.php:10
 msgid "Create new Main"
 msgstr "انشاء رئيسيه  جديد"
 
@@ -2792,114 +3049,114 @@ msgstr "انشاء رئيسيه  جديد"
 msgid "Edit role"
 msgstr "تعديل مجموعة"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:7
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:9
 msgid "Favicon icon"
 msgstr "ايقونة المتصفح"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:24
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:26
 msgid "Header logo"
 msgstr "صورة اعلى الموقع"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:41
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:43
 msgid "Footer logo"
 msgstr "صورة اسفل الموقع"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:58
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:60
 msgid "Not found image"
 msgstr "صورة المنتجات الغير موجوده"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:78
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:80
 msgid "Image Account"
 msgstr "صورة الحساب"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:101
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:103
 msgid "Main Settings"
 msgstr "الاعدادات الأساسية"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:117
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:119
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:121
 msgid "Site Name"
 msgstr "اسم الموقع"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:124
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:126
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:128
 msgid "Site Worktime"
 msgstr "وقت عمل المتجر"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:136
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:138
 msgid "Captcha"
 msgstr "كلمة التحقق"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:149
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:151
 msgid "Terms & Conditions"
 msgstr "البنود و الظروف"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:161
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:163
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:165
 msgid "Customers Count"
 msgstr "عدد العملاء"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:168
 #: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:170
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:172
 msgid "Projects Count"
 msgstr "عدد المشاريع"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:185
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:187
 msgid "technical support"
 msgstr "الدعم الفني"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:190
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:193
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:192
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:195
 msgid "phone 1"
 msgstr "الهاتف الرئيسي"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:204
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:207
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:206
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:209
 msgid "Phone 2"
 msgstr "الهاتف الإضافي"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:221
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:235
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:223
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:237
 msgid "Website Email"
 msgstr "البريد الإلكتروني للموقع"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:249
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:251
 msgid "socialmedia sites"
 msgstr "مواقع وسائل الاعلام الاجتماعية"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:253
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:256
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:255
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:258
 msgid "Facebook"
 msgstr "فيسبوك"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:267
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:269
 msgid "Instagram"
 msgstr "انستجرام"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:270
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:272
 msgid "instagram"
 msgstr "انستجرام"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:281
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:283
 msgid "Twitter"
 msgstr "تويتر"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:284
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:286
 msgid "Twtter"
 msgstr "تويتر"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:295
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:298
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:297
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:300
 msgid "Youtube"
 msgstr "يوتيوب"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:309
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:312
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:311
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:314
 msgid "Mail"
 msgstr "محتوى الرسالة"
 
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:323
-#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:326
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:325
+#: ../storage/framework/messages/b43ee815c8ebefc6fdee256656d2c3c191cdd00a.php.php:328
 msgid "Snapchat"
 msgstr "سناب شات"
 
@@ -2971,6 +3228,19 @@ msgstr "تحديث لغة"
 msgid "Online customers"
 msgstr "العملاء المتواجدين حاليا"
 
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:14
+msgid " Help Modules"
+msgstr "مساعده  الموديولات"
+
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:143
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:144
+msgid "Edit  Help Modules"
+msgstr "تعديل مساعدة الموديول"
+
+#: ../storage/framework/messages/b96704f246a4dda83422f1134ed4631056135fbd.php.php:145
+msgid "Edit Help Modules"
+msgstr "تعديل مساعدة  الموديول"
+
 #: ../storage/framework/messages/b9794e9a4d1c46e55f72bdd8597eab76cd66101d.php.php:80
 msgid "Edit Footer Category"
 msgstr "تعديل قسم للفوتر"
@@ -2989,6 +3259,12 @@ msgstr "انشاء تصنيف مقالات جديد"
 msgid "Footers Category"
 msgstr "قسم الفوتر"
 
+#: ../storage/framework/messages/b9f06df866d8b56f716c0007c2a418680ce85115.php.php:9
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:11
+#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:9
+msgid "create new ContentModule "
+msgstr "إنشاء محتوى  موديول  جديد"
+
 #: ../storage/framework/messages/bba44f7b216b7f84620d59a9e758e0ae8c133241.php.php:22
 #: ../storage/framework/messages/bba44f7b216b7f84620d59a9e758e0ae8c133241.php.php:24
 #: Modules/Portal/Controllers/MailingListController.php:22
@@ -2996,19 +3272,25 @@ msgstr "قسم الفوتر"
 msgid "Thank you !"
 msgstr "شكرا لك !"
 
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:76
-#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:77
 #: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:78
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:63
-#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:64
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:79
+#: ../storage/framework/messages/bbfe780c49464d6c0b182f92830b2de4a180e9c5.php.php:80
 #: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:65
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:66
+#: ../storage/framework/messages/d8da0cae612bc481284d945ea420bbf1866182d8.php.php:67
 msgid "Add Questions Details"
 msgstr "أضافة تفاصيل السؤال"
 
 #: ../storage/framework/messages/c2969c56f38f9371060b1b7c5ea1241f0b5fab2f.php.php:21
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:50
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:52
 msgid "Users"
 msgstr "المستخدمين"
+
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:19
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:234
+#: ../storage/framework/messages/c3f9367a3a994b2a568b4e92e47ccdb2396ba861.php.php:235
+msgid "All ContentModule"
+msgstr "كل المحتويات الموديول"
 
 #: ../storage/framework/messages/c6a2e1d4c490bf064651158c037f98a045056c5c.php.php:14
 msgid "Happy Custmors"
@@ -3027,7 +3309,28 @@ msgstr "المنتجات"
 msgid "Add new store"
 msgstr "اضافة متجر جديد"
 
-#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:9
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:9
+msgid "Interoduction"
+msgstr "المقدمه"
+
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:11
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:28
+msgid "Goals"
+msgstr "الاهداف"
+
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:13
+msgid "Insturcation Module"
+msgstr "تعلميات الموديول"
+
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:15
+msgid "Content"
+msgstr "المحتوي"
+
+#: ../storage/framework/messages/c848541450dea07bb4ce6a63ed06fd08c7b17292.php.php:17
+msgid "Activity"
+msgstr "كل انشطة الموديول"
+
+#: ../storage/framework/messages/c8eb8c21505c26b3d0a372f42ae0e0260ac4af09.php.php:11
 msgid "create new Modules "
 msgstr "إنشاء موديول  جديد"
 
@@ -3038,13 +3341,18 @@ msgstr "إنشاء موديول  جديد"
 msgid "Edit Membership permissions"
 msgstr "تعديل صلاحيات العضوية"
 
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:9
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:100
+#: ../storage/framework/messages/cf39159509678010d223fdfeebbfd548ee94b338.php.php:101
+msgid "All Content Module"
+msgstr "كل المحتويات الموديول"
+
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:11
 msgid "create new Questions "
 msgstr "إنشاء سؤال جديد"
 
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:17
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:235
-#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:236
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:19
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:237
+#: ../storage/framework/messages/d2c59dda1381b1203de3b9bb877b0629987beb20.php.php:238
 msgid "All Questions"
 msgstr "كل الاختبارات"
 
@@ -3052,7 +3360,7 @@ msgstr "كل الاختبارات"
 msgid "Read more"
 msgstr "اقرأ المزيد"
 
-#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:9
+#: ../storage/framework/messages/d66bc63aa4d81700ac72d35b19ed15e3e187ace4.php.php:11
 msgid "create new ActivityModule "
 msgstr "إنشاء  انشطه موديول  جديد"
 
@@ -3073,23 +3381,23 @@ msgstr "اضافة مستخدم"
 msgid "Edit store"
 msgstr "تعديل المتجر"
 
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:30
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:32
 msgid "Basic Settings"
 msgstr "اعدادات الأساسية"
 
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:31
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:33
 msgid "Link, logo, name, location"
 msgstr "رابط ، شعار ، اسم ، موقع"
 
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:52
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:54
 msgid "Control Users"
 msgstr "التحكم في المستخدمين"
 
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:73
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:75
 msgid "Manage static pages"
 msgstr "التحكم في الصفحات الثابته"
 
-#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:97
+#: ../storage/framework/messages/e0dfe81cb7ae50c81a2f3e496ffefec2778e9213.php.php:99
 msgid "Show sliders to customers in the Home Page"
 msgstr "اعرض السلايدر للعملاء في المتجر"
 
@@ -3109,29 +3417,34 @@ msgstr "عملاء فــرِحون"
 msgid "What People Say About Us"
 msgstr "آراء الناس فينا"
 
-#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:6
+#: ../storage/framework/messages/edc91f3f64af37b5108ce3dc8a51264988f980a5.php.php:8
 msgid "Export Roles"
 msgstr "تصدير مجموعات الصلاحيات"
 
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:12
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:14
 msgid "Questions Select"
 msgstr "تفاصيل الاختبارات"
 
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:72
-#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:73
 #: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:74
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:75
+#: ../storage/framework/messages/ee9f963c2037ed73a3a2e0b431a2fd0f7b081521.php.php:76
 msgid "Edit Questions Select"
 msgstr "تعديل الاختيار"
 
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:9
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:11
 msgid "create new Help "
 msgstr "إنشاء مساعده جديدة"
 
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:17
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:237
-#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:238
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:19
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:239
+#: ../storage/framework/messages/eeb1e331a1c762045d893ddf172f39650ca96e89.php.php:240
 msgid "All Help"
 msgstr "كل الماساعده"
+
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:87
+#: ../storage/framework/messages/f0bbe3cb5abb25047c4d40eb794ae839023739b2.php.php:88
+msgid "All Group Module"
+msgstr "كل مجموعات الموديول"
 
 #: ../storage/framework/messages/f34d19d398927274977e7c6582e8605f56ffe07e.php.php:8
 msgid "Control In All Volunteers"
@@ -3158,17 +3471,13 @@ msgstr "اسم الباقة"
 msgid "Is Active"
 msgstr "الحالة"
 
-#: ../storage/framework/messages/f4fafb3b899fb0384b66ce9427b82790f5030d72.php.php:31
-msgid "Image Insturctions"
-msgstr " صورة التعليمات"
-
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:9
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:11
 msgid "create new Interoduction Modules "
 msgstr "إنشاء مقدمة موديول  جديده"
 
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:17
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:236
-#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:237
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:19
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:238
+#: ../storage/framework/messages/f9d64cebe5f26fac1dbf1eac90f7b20deb8cb546.php.php:239
 msgid "All Interoduction Modules"
 msgstr "مقدمة الموديول"
 
@@ -3178,17 +3487,28 @@ msgstr "مقدمة الموديول"
 msgid "Edit Questions"
 msgstr "تعديل السؤال"
 
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:1
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:3
 msgid "Quiz"
 msgstr ""
 
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:53
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:56
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:61
 msgid "Next"
 msgstr "التالي"
 
-#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:54
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:57
+#: ../storage/framework/messages/fdce905326a474fa545ea93edad62432f201c6db.php.php:62
 msgid "Previous"
 msgstr "السابق"
+
+#~ msgid "Create new Insturctions"
+#~ msgstr "اضافة تعليمات جديده"
+
+#~ msgid "GoalsModules"
+#~ msgstr "أهداف الموديول"
+
+#~ msgid "Image Goal Module"
+#~ msgstr "صورة الموديول"
 
 #~ msgid "Uploaded successfully"
 #~ msgstr "تم رفع الملف بنجاح"
@@ -3210,12 +3530,6 @@ msgstr "السابق"
 
 #~ msgid "Select"
 #~ msgstr "تم اختياره"
-
-#~ msgid "Content Title"
-#~ msgstr "عنوان محتوى الموديول"
-
-#~ msgid "Video"
-#~ msgstr "فيديو"
 
 #~ msgid "About"
 #~ msgstr "حول"
@@ -3669,9 +3983,6 @@ msgstr "السابق"
 #~ msgid "Campaign goal"
 #~ msgstr "هدف الحملة"
 
-#~ msgid "Choose Goal"
-#~ msgstr "اختر الهدف"
-
 #~ msgid "Buy from the store"
 #~ msgstr "الشراء من المتجر"
 
@@ -3806,9 +4117,6 @@ msgstr "السابق"
 
 #~ msgid "Uploading attachments"
 #~ msgstr "رفع الملف الملحق"
-
-#~ msgid "File:"
-#~ msgstr "ملف:"
 
 #~ msgid "Category Design"
 #~ msgstr "تصميم القسم"
@@ -6855,9 +7163,6 @@ msgstr "السابق"
 #~ msgid "are you sure to delete this ticket ?!"
 #~ msgstr "هل أنت متأكد من حذف التذكرة؟"
 
-#~ msgid "Edit Content"
-#~ msgstr "تعديل المحتوي"
-
 #~ msgid "Columns Number"
 #~ msgstr "عدد الأعمدة"
 
@@ -8685,9 +8990,6 @@ msgstr "السابق"
 #~ msgid "Delegate Title"
 #~ msgstr "وصف المفوض"
 
-#~ msgid "Upload Files"
-#~ msgstr "رفع الملفات"
-
 #~ msgid "Commercial Register"
 #~ msgstr "السجل التجاري"
 
@@ -8873,9 +9175,6 @@ msgstr "السابق"
 
 #~ msgid "Product added to your favorite successfully"
 #~ msgstr "تم إضافة المنتج الى المفضلة بنجاح"
-
-#~ msgid "Please Login First"
-#~ msgstr "يرجى تسجيل الدخول اولا"
 
 #~ msgid "Product Removed Successfully"
 #~ msgstr "تم الحذف بنجاح"
@@ -9413,9 +9712,6 @@ msgstr "السابق"
 
 #~ msgid "Prodcuct Name"
 #~ msgstr "اسم المنتج"
-
-#~ msgid "Views"
-#~ msgstr "المشاهدات"
 
 #~ msgid "admin average sales"
 #~ msgstr "متوسط المبيعات"
@@ -11087,9 +11383,6 @@ msgstr "السابق"
 
 #~ msgid "Discount Code Used Before"
 #~ msgstr "كود الخصم مستخدم من قبل"
-
-#~ msgid "All Contents"
-#~ msgstr "كل المحتويات"
 
 #~ msgid "flash_message"
 #~ msgstr "الرسالة"

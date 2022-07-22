@@ -30,7 +30,7 @@
         <div class="card blog-page" id="blog">
             <div class="card-block">
                 @include('admin.layout.swal')
-                <form method='post' action="{{ route('activity_modules.update', $avtivity_module->id) }}" class='form-group' data-parsley-validate>
+                <form method='post' action="{{ route('activity_modules.update', $avtivity_module->id) }}" class='form-group' data-parsley-validate enctype="multipart/form-data">
                     @csrf
                     @method('POST')
 
@@ -39,7 +39,7 @@
                      <div class="form-group row">
                         <label for="name" class="col-sm-1 col-form-label"> {{ _i('Title') }}</label>
                         <div class="col-sm-11">
-                            <input type="text" name="title" class='form-control' value='{{ $avtivity_module_data->title }}'>
+                            <input type="text" name="title" class='form-control' value="{{  $avtivity_module_data->title }}">
                             @if ($errors->has('title'))
                                 <span class="text-danger invalid-feedback" role="alert">
                                     <strong>{{ $errors->first('title') }}</strong>
@@ -47,12 +47,30 @@
                             @endif
                         </div>
                     </div> 
+                    <!-- ---------------------------------------------** Modules ** -------------------------------------------------------------- -->
+
+                    <div class="form-group row">
+                        <label class="col-sm-1 col-form-label" for="checkbox">
+                            {{ _i('Modules') }}
+                        </label>
+                        <div class="col-sm-11">
+                            <label>
+                               <select name="module_id" id="module_id" class="form-control">
+                                   <option value="0">{{ _i('Select Module') }}</option>
+                                   @foreach ($modules as $module)
+                                    <option value="{{ $module->id }}">{{ $module->Data->isNotEmpty() ? $module->Data->first()->title : '' }}</option>
+                                   @endforeach
+                               </select>
+
+                            </label>
+                        </div>
+                    </div>
                     <!-- ---------------------------------------------** Description ** -------------------------------------------------------------- -->
 
                      <div class="form-group row">
                         <label for="name" class="col-sm-1 col-form-label"> {{ _i('Description') }}</label>
                         <div class="col-sm-11">
-                            <textarea type="text" name="description" class='form-control'>{{ $avtivity_module_data->description }}</textarea>
+                            <textarea type="text" name="description" class='form-control ckeditor'>{{ $avtivity_module_data ? $avtivity_module_data->description : '' }}</textarea>
                             @if ($errors->has('title'))
                                 <span class="text-danger invalid-feedback" role="alert">
                                     <strong>{{ $errors->first('title') }}</strong>
@@ -60,7 +78,7 @@
                             @endif
                         </div>
                     </div> 
-                    <!-- ---------------------------------------------** checkbox Published ** -------------------------------------------------------------- -->
+                    <!-- ---------------------------------------------** checkbox   ** -------------------------------------------------------------- -->
 
                     <div class="form-group row">
                         <label class="col-sm-1 col-form-label" for="checkbox">
@@ -68,30 +86,27 @@
                         </label>
                         <div class="checkbox-fade fade-in-primary col-sm-6">
                             <label>
-                                <input type="checkbox" id="checkbox" name="published" value="1"
-                                    {{ $avtivity_module->published == 1 ? 'checked' : '' }}>
+                                <input type="checkbox" id="checkbox" name="status" value="1"
+                                    {{ $avtivity_module->status == 1 ? 'checked' : '' }}>
                                 <span class="cr">
                                     <i class="cr-icon icofont icofont-ui-check txt-primary"></i>
                                 </span>
                             </label>
                         </div>
                     </div>
-                     <!-- ---------------------------------------------** checkbox Answer ** -------------------------------------------------------------- -->
-                     <div class="form-group row">
-                        <label class="col-sm-1 col-form-label" for="checkbox">
-                            {{ _i('Answer') }}
+                      <!-- ---------------------------------------------** Image ** -------------------------------------------------------------- -->
+                      <div class="form-group row">
+                        <label class="col-sm-2 col-form-label" for="checkbox">
+                            {{ _i('Image ') }}
                         </label>
                         <div class="checkbox-fade fade-in-primary col-sm-6">
                             <label>
-                                <input type="checkbox" id="checkbox" name="answer" value="1"
-                                    {{ $avtivity_module_data->answer == 1 ? 'checked' : '' }}>
-                                <span class="cr">
-                                    <i class="cr-icon icofont icofont-ui-check txt-primary"></i>
-                                </span>
+                                <input type="file" class="form-control modal-title" name='image'
+                                accept="image/jpeg,image/jpg,image/png">
+                                <img style="width: 150px" id="image_service" class="img-thumbnail" src="{{ $avtivity_module->image }}">
                             </label>
                         </div>
                     </div>
-
 
                     <div class="form-group row">
                         <div class="col-sm-offset-2 col-sm-2">
